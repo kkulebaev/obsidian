@@ -6,12 +6,16 @@ Is it clear?
 Are you following me?  
   
 ## Эмоции  
-Ouch - Ай  
-Yikes - Тссс (когда ударился)  
-Oops - Ой  
-Wow - Ого  
-Come on - Да ладно  
-Shit - Блин  
+Ouch - ай  
+Yikes - тссс (когда ударился)  
+Oops - ой  
+Wow - ого  
+Come on - да ладно  
+Shit - блин
   
 ## Выражения с добавкой  
 Help out - выручать
+
+## Типичные слова
+Sparkling water - вода с газом  
+Still water - вода без газа

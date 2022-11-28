@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f0c5e5022755d22f",
+        "id": "c3592bd1e470ff5c",
         "type": "tabs",
         "children": [
           {
-            "id": "742bbf2975769519",
+            "id": "8ced48ebe7f463c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verses.md",
+                "file": "English words.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97b48f07ae147066",
+            "id": "bc1c23a4125d4b56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verses.md",
+                "file": "Frontend/Masonry.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verses.md",
+                "file": "Frontend/Masonry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verses.md",
+                "file": "Frontend/Masonry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verses.md"
+                "file": "Frontend/Masonry.md"
               }
             }
           }
@@ -148,12 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "742bbf2975769519",
+  "active": "bc1c23a4125d4b56",
   "lastOpenFiles": [
-    "Records.md",
-    "Finance.md",
     "English words.md",
-    "Verses.md",
-    "2022-11-28.md"
+    "Frontend/Render Diffs app in a Web Worker.md",
+    "Verses/Жизнь по методу \"типа\".md",
+    "Verses/Для чего нужна жена?.md",
+    "Frontend/Discussion of complete rewrite of ESLint.md",
+    "Verses/Content.md",
+    "Verses/2015.md",
+    "Verses/Россия для грустных.md",
+    "Verses/Верь в себя.md",
+    "Verses/Чернобыль.md"
   ]
 }
