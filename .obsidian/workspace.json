@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "28e7ae400c92acc0",
+        "id": "c45c39ff0802e6d0",
         "type": "tabs",
         "children": [
           {
-            "id": "7f797b7582071e3f",
+            "id": "e7d0b92604774c3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/GitHub font Mona Sans.md",
+                "file": "Frontend/Render Diffs app in a Web Worker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8846a94350f108ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Render Diffs app in a Web Worker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51c9732b128e84e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/RescueTime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31846859943d9ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Render Diffs app in a Web Worker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/GitHub font Mona Sans.md",
+                "file": "Frontend/Render Diffs app in a Web Worker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/GitHub font Mona Sans.md",
+                "file": "Frontend/Render Diffs app in a Web Worker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/GitHub font Mona Sans.md"
+                "file": "Frontend/Render Diffs app in a Web Worker.md"
               }
             }
           }
@@ -136,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f797b7582071e3f",
+  "active": "31846859943d9ebf",
   "lastOpenFiles": [
+    "Frontend/Forking, Modifying, and Publishing NPM Packages.md",
     "Frontend/Render Diffs app in a Web Worker.md",
-    "Files/Masonry.jpeg",
-    "Files/Mona Sans.png",
-    "Frontend/GitHub font Mona Sans.md",
-    "Frontend/Masonry.md",
-    "English words.md",
-    "Verses/Жизнь по методу \"типа\".md",
-    "Verses/Для чего нужна жена?.md",
+    "Frontend/RescueTime.md",
+    "Linux/Что нужно сделать после установки Fedora.md",
+    "Frontend/Libs/Masonry.md",
+    "Frontend/GitLab.md",
     "Frontend/Discussion of complete rewrite of ESLint.md",
+    "Frontend/Fonts/Mona Sans.md",
+    "Verses/2015.md",
     "Verses/Content.md"
   ]
 }
