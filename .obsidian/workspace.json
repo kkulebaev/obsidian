@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca0fc10ace56a374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English words.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Финансы.md",
+                "file": "English words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Финансы.md",
+                "file": "English words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Финансы.md"
+                "file": "English words.md"
               }
             }
           }
@@ -136,6 +149,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "742bbf2975769519",
-  "lastOpenFiles": []
+  "active": "ca0fc10ace56a374",
+  "lastOpenFiles": [
+    "Финансы.md"
+  ]
 }
