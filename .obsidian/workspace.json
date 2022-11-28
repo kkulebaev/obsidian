@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Финансы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca0fc10ace56a374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "English words.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,8 +136,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca0fc10ace56a374",
+  "active": "742bbf2975769519",
   "lastOpenFiles": [
-    "Финансы.md"
+    "2022-11-28.md",
+    "Finance.md",
+    "Records.md",
+    "English words.md"
   ]
 }
