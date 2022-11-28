@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c3592bd1e470ff5c",
+        "id": "28e7ae400c92acc0",
         "type": "tabs",
         "children": [
           {
-            "id": "8ced48ebe7f463c1",
+            "id": "7f797b7582071e3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English words.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc1c23a4125d4b56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Masonry.md",
+                "file": "Frontend/GitHub font Mona Sans.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Masonry.md",
+                "file": "Frontend/GitHub font Mona Sans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Masonry.md",
+                "file": "Frontend/GitHub font Mona Sans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Masonry.md"
+                "file": "Frontend/GitHub font Mona Sans.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc1c23a4125d4b56",
+  "active": "7f797b7582071e3f",
   "lastOpenFiles": [
-    "English words.md",
     "Frontend/Render Diffs app in a Web Worker.md",
+    "Files/Masonry.jpeg",
+    "Files/Mona Sans.png",
+    "Frontend/GitHub font Mona Sans.md",
+    "Frontend/Masonry.md",
+    "English words.md",
     "Verses/Жизнь по методу \"типа\".md",
     "Verses/Для чего нужна жена?.md",
     "Frontend/Discussion of complete rewrite of ESLint.md",
-    "Verses/Content.md",
-    "Verses/2015.md",
-    "Verses/Россия для грустных.md",
-    "Verses/Верь в себя.md",
-    "Verses/Чернобыль.md"
+    "Verses/Content.md"
   ]
 }
