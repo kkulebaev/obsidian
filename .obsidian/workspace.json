@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8971a1891bb509b6",
+        "id": "883b689f478fc459",
         "type": "tabs",
         "children": [
           {
-            "id": "f8e2059ddb44c9cb",
+            "id": "075312b4c11834be",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f8e2059ddb44c9cb",
+  "active": "075312b4c11834be",
   "lastOpenFiles": [
+    "Finance.md",
     "Contacts/Telegram.md",
     "Frontend/Render Diffs app in a Web Worker.md",
     "Frontend/RescueTime.md",
@@ -138,7 +139,6 @@
     "Frontend/Libs/Masonry.md",
     "Frontend/GitLab.md",
     "Frontend/Discussion of complete rewrite of ESLint.md",
-    "Frontend/Fonts/Mona Sans.md",
-    "Verses/2015.md"
+    "Frontend/Fonts/Mona Sans.md"
   ]
 }
