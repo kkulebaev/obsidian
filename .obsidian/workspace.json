@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "883b689f478fc459",
+        "id": "1ca586b6b6549d2e",
         "type": "tabs",
         "children": [
           {
-            "id": "075312b4c11834be",
+            "id": "c0b6cd7f44d48ea9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/Что нужно сделать после установки Fedora.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "075312b4c11834be",
+  "active": "c0b6cd7f44d48ea9",
   "lastOpenFiles": [
+    "Linux/Что нужно сделать после установки Fedora.md",
+    "Linux/Flatpak apps.md",
+    "Linux/SSH Keys.md",
+    "Linux/Gnome Extensions.md",
+    "Linux/Смена языка по Alt + Shift.md",
+    "Linux/Aliases.md",
     "Finance.md",
     "Contacts/Telegram.md",
     "Frontend/Render Diffs app in a Web Worker.md",
-    "Frontend/RescueTime.md",
-    "Frontend/Forking, Modifying, and Publishing NPM Packages.md",
-    "Linux/Что нужно сделать после установки Fedora.md",
-    "Frontend/Libs/Masonry.md",
-    "Frontend/GitLab.md",
-    "Frontend/Discussion of complete rewrite of ESLint.md",
-    "Frontend/Fonts/Mona Sans.md"
+    "Frontend/RescueTime.md"
   ]
 }
