@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1ca586b6b6549d2e",
+        "id": "f4ae5cc8917257de",
         "type": "tabs",
         "children": [
           {
-            "id": "c0b6cd7f44d48ea9",
+            "id": "12205679b4d10075",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c0b6cd7f44d48ea9",
+  "active": "12205679b4d10075",
   "lastOpenFiles": [
+    "TODO List.md",
     "Linux/Что нужно сделать после установки Fedora.md",
+    "Records.md",
+    "Фильмы.md",
+    "Linux/Untitled.md",
     "Linux/Flatpak apps.md",
     "Linux/SSH Keys.md",
     "Linux/Gnome Extensions.md",
     "Linux/Смена языка по Alt + Shift.md",
-    "Linux/Aliases.md",
-    "Finance.md",
-    "Contacts/Telegram.md",
-    "Frontend/Render Diffs app in a Web Worker.md",
-    "Frontend/RescueTime.md"
+    "Linux/Aliases.md"
   ]
 }
