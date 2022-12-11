@@ -5,7 +5,7 @@ flatpak install com.slack.Slack
 
 ## Teams
 ```sh
-flatpak install flatpak install com.github.IsmaelMartinez.teams_for_linux
+flatpak install com.github.IsmaelMartinez.teams_for_linux
 ```
 
 ## Discord
@@ -31,4 +31,9 @@ flatpak install io.github.celluloid_player.Celluloid
 ## Thunderbird
 ```sh
 flatpak install org.mozilla.Thunderbird
+```
+
+## Steam
+```sh
+flatpak install flathub com.valvesoftware.Steam
 ```
