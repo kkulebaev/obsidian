@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f4ae5cc8917257de",
+        "id": "13471fc9d0663888",
         "type": "tabs",
         "children": [
           {
-            "id": "12205679b4d10075",
+            "id": "1a7ac22085a5fa40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Flatpak apps.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Flatpak apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Flatpak apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Flatpak apps.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12205679b4d10075",
+  "active": "1a7ac22085a5fa40",
   "lastOpenFiles": [
+    "Finance.md",
+    "Linux/Flatpak apps.md",
     "Linux/Что нужно сделать после установки Fedora.md",
     "TODO List.md",
     "Records.md",
     "Фильмы.md",
     "Linux/Untitled.md",
-    "Linux/Flatpak apps.md",
     "Linux/SSH Keys.md",
     "Linux/Gnome Extensions.md",
-    "Linux/Смена языка по Alt + Shift.md",
-    "Linux/Aliases.md"
+    "Linux/Смена языка по Alt + Shift.md"
   ]
 }
