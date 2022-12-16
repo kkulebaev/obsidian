@@ -3,7 +3,9 @@
     
 -   Установит Snapper для снэпшотов системы [https://davejansen.com/fedora-root-snapshot-support/](https://davejansen.com/fedora-root-snapshot-support/)
     
--   Установить oh-my-zsh  
+- Установить браузер [[Brave]]
+    
+- Установить oh-my-zsh  
     [https://irenapopova.com/blog/zsh%20shell-post/  
     ](https://irenapopova.com/blog/zsh%20shell-post/)https://plafon.gitbook.io/fedora-zero/fedora-zero/terminal/terminal-na-zsh
     
@@ -12,10 +14,12 @@
 -   Установить Neofetch  
     https://plafon.gitbook.io/fedora-zero/fedora-zero/terminal/neofetch
     
+- Установить [[Programming languages]]
+    
 -   Установить VSCode  
     [https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
-    
--   Сделать [[SSH Keys]]
+      
+- Сделать [[SSH Keys]]
     
 -   Установить Docker [https://docs.docker.com/engine/install/fedora/](https://docs.docker.com/engine/install/fedora/)
     

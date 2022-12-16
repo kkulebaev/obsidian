@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "13471fc9d0663888",
+        "id": "84494dd38ab25cdf",
         "type": "tabs",
         "children": [
           {
-            "id": "1a7ac22085a5fa40",
+            "id": "39e78da8f92a3ddc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/Что нужно сделать после установки Fedora.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a7ac22085a5fa40",
+  "active": "39e78da8f92a3ddc",
   "lastOpenFiles": [
-    "Finance.md",
-    "Linux/Flatpak apps.md",
+    "Linux/Programming languages.md",
+    "Linux/Aliases.md",
+    "Linux/Brave.md",
     "Linux/Что нужно сделать после установки Fedora.md",
     "TODO List.md",
+    "Finance.md",
+    "Linux/Flatpak apps.md",
     "Records.md",
     "Фильмы.md",
-    "Linux/Untitled.md",
-    "Linux/SSH Keys.md",
-    "Linux/Gnome Extensions.md",
-    "Linux/Смена языка по Alt + Shift.md"
+    "Linux/SSH Keys.md"
   ]
 }
