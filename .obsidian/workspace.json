@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English words.md",
+                "file": "Finance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English words.md",
+                "file": "Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English words.md",
+                "file": "Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English words.md"
+                "file": "Finance.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "16d5e70f45212ef5",
   "lastOpenFiles": [
+    "English words.md",
     "Finance.md",
     "TODO List.md",
     "Records.md",
@@ -155,7 +156,6 @@
     "Linux/Что нужно сделать после установки Fedora.md",
     "Linux/Programming languages.md",
     "Linux/Aliases.md",
-    "Linux/Brave.md",
-    "Linux/Flatpak apps.md"
+    "Linux/Brave.md"
   ]
 }
