@@ -15,6 +15,7 @@ alias ifx='cd ~/develop/ifx-ui/ && yarn dev'
 alias rsb='cd ~/develop/RusBonds/Frontend && yarn dev'
 alias adminka='cd ~/develop/AdminTools/Frontend && yarn dev'
 alias landing='cd ~/develop/RuData_Web/RuData.Landing && yarn dev'
+alias pub='cd ~/develop/publishing/ && USE_DEV_PROXY=true npm run dev'
 
 ## Neofetch
 alias n="neofetch"

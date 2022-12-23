@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "76a1b03a99cc4292",
+        "id": "7ad82c69dd6e1c47",
         "type": "tabs",
         "children": [
           {
-            "id": "16d5e70f45212ef5",
+            "id": "2c405cc6f10a1aa4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finance.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Finance.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,17 +137,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16d5e70f45212ef5",
+  "active": "2c405cc6f10a1aa4",
   "lastOpenFiles": [
-    "English words.md",
+    "Linux/Aliases.md",
+    "Linux/Что нужно сделать после установки Fedora.md",
     "Finance.md",
+    "English words.md",
     "TODO List.md",
     "Records.md",
     "Git/Origin Remote.md",
     "Linux/Remote server + VPN.md",
-    "Linux/Что нужно сделать после установки Fedora.md",
     "Linux/Programming languages.md",
-    "Linux/Aliases.md",
     "Linux/Brave.md"
   ]
 }
