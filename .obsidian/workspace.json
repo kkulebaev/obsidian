@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Fonts/Mona Sans.md",
+                "file": "Git/Origin Remote.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Fonts/Mona Sans.md",
+                "file": "Git/Origin Remote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Fonts/Mona Sans.md",
+                "file": "Git/Origin Remote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Fonts/Mona Sans.md"
+                "file": "Git/Origin Remote.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "2c405cc6f10a1aa4",
   "lastOpenFiles": [
+    "Frontend/Fonts/Mona Sans.md",
     "Linux/Aliases.md",
     "Linux/Что нужно сделать после установки Fedora.md",
     "Finance.md",
@@ -155,7 +156,6 @@
     "Records.md",
     "Git/Origin Remote.md",
     "Linux/Remote server + VPN.md",
-    "Linux/Programming languages.md",
-    "Linux/Brave.md"
+    "Linux/Programming languages.md"
   ]
 }
