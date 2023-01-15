@@ -13,7 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Brave.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3ac06f1345eb475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Внешний вид.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf185c58803f5abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Hotkeys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69f06164bb372314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/zsh + oh-my-zsh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1ddb63cb800f754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Console utils.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Brave.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Brave.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Brave.md"
+                "file": "Linux/Что нужно сделать после установки Fedora.md"
               }
             }
           }
@@ -156,15 +204,15 @@
   },
   "active": "94a1c2549815880c",
   "lastOpenFiles": [
-    "Files/Sync Settings Brave.png",
     "Linux/Brave.md",
     "Linux/Что нужно сделать после установки Fedora.md",
+    "Linux/Внешний вид.md",
+    "Linux/Hotkeys.md",
+    "Linux/zsh + oh-my-zsh.md",
+    "Linux/Console utils.md",
+    "Linux/Aliases.md",
+    "Files/Sync Settings Brave.png",
     "Linux/Смена языка по Alt + Shift.md",
-    "Linux/Git credentials.md",
-    "Linux/Programming languages.md",
-    "Linux/Gnome Extensions.md",
-    "Linux/SSH Keys.md",
-    "Linux/Obsidian.md",
-    "Files/Obsidian Welcome Screen.png"
+    "Linux/Git credentials.md"
   ]
 }

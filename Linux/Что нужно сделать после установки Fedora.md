@@ -1,50 +1,44 @@
 -  Включить репозиторий [[FlutHub]]
     
--  Определить [[Git credentials]]
+-  [[Git credentials]]
     
-- Сделать [[SSH Keys]]
+-  [[SSH Keys]]
     
-- Установить [[Obsidian]]
+-  [[Obsidian]]
     
--  Fstab 
-    https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../fstab
+-  [Fstab](https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../fstab)
     
--  Ускоряем DNF 
-    https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../uskoryaem-dnf
+-  [Ускоряем DNF](https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../uskoryaem-dnf) 
     
-- Установит Snapper для снэпшотов системы [https://davejansen.com/fedora-root-snapshot-support/](https://davejansen.com/fedora-root-snapshot-support/)
+-  [[Console utils]]
     
-- Установить браузер [[Brave]]
+-  [Установит Snapper для снэпшотов системы](https://davejansen.com/fedora-root-snapshot-support/](https://davejansen.com/fedora-root-snapshot-support/)
     
-- Установить oh-my-zsh  
-    [https://irenapopova.com/blog/zsh%20shell-post/  
-    ](https://irenapopova.com/blog/zsh%20shell-post/)https://plafon.gitbook.io/fedora-zero/fedora-zero/terminal/terminal-na-zsh
+-  [[Brave]]
     
--   Настроить [[Aliases]] для терминала
+-  [[zsh + oh-my-zsh]]
     
--   Установить Neofetch  
-    https://plafon.gitbook.io/fedora-zero/fedora-zero/terminal/neofetch
+-  [[Aliases]]
     
-- Установить [[Programming languages]]
+-  [[Hotkeys]]
     
--  Gnome Tweaks
-    https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../dop.-nastroiki-gnome
+-  [[Внешний вид]]
     
-- Установить VSCode  
-    [https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
+-  [[Programming languages]]
+    
+-  [VSCode](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
       
--   Установить Docker [https://docs.docker.com/engine/install/fedora/](https://docs.docker.com/engine/install/fedora/)
+-  [Docker]([https://docs.docker.com/engine/install/fedora/)
     
--   Настроить докер, чтоб работал без команды `sudo`  
-    [https://docs.docker.com/engine/install/linux-postinstall/](https://docs.docker.com/engine/install/linux-postinstall/)
+-  [Настроить докер](https://docs.docker.com/engine/install/linux-postinstall/), чтоб работал без команды `sudo` 
     
--   Установить [[Flatpak apps]]
+-  Установить [[Flatpak apps]]
     
--   Установить Cisco Anyconnect
+-  Установить Cisco Anyconnect
     
--   Установить [[Gnome Extensions]]
+-  Установить [[Gnome Extensions]]
     
--   Настроить WireGuard (VPN)
+-  Настроить WireGuard (VPN)
     [https://habr.com/ru/post/432686/](https://habr.com/ru/post/432686/)
     [https://bezumkin.ru/sections/servers/3070](https://bezumkin.ru/sections/servers/3070)
     
