@@ -14,3 +14,6 @@ sudo rpm --import https://brave-browser-rpm-release.s3.brave.com/brave-core.asc
 ```sh
 sudo dnf install brave-browser
 ```
+
+Выполнить синхронизацию настроек браузера Brave
+![[Sync Settings Brave.png]]

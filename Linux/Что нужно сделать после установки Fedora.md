@@ -12,9 +12,6 @@
 -  Ускоряем DNF 
     https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../uskoryaem-dnf
     
--  Gnome Tweaks
-    https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../dop.-nastroiki-gnome
-    
 - Установит Snapper для снэпшотов системы [https://davejansen.com/fedora-root-snapshot-support/](https://davejansen.com/fedora-root-snapshot-support/)
     
 - Установить браузер [[Brave]]
@@ -30,7 +27,10 @@
     
 - Установить [[Programming languages]]
     
--   Установить VSCode  
+-  Gnome Tweaks
+    https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../dop.-nastroiki-gnome
+    
+- Установить VSCode  
     [https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
       
 -   Установить Docker [https://docs.docker.com/engine/install/fedora/](https://docs.docker.com/engine/install/fedora/)

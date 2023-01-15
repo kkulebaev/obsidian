@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md",
+                "file": "Linux/Brave.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "c99f788759c8c1cb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Files/Sync Settings Brave.png"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md",
+                "file": "Linux/Brave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md",
+                "file": "Linux/Brave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md"
+                "file": "Linux/Brave.md"
               }
             }
           }
@@ -146,15 +156,15 @@
   },
   "active": "94a1c2549815880c",
   "lastOpenFiles": [
+    "Files/Sync Settings Brave.png",
+    "Linux/Brave.md",
+    "Linux/Что нужно сделать после установки Fedora.md",
     "Linux/Смена языка по Alt + Shift.md",
     "Linux/Git credentials.md",
     "Linux/Programming languages.md",
-    "Linux/Что нужно сделать после установки Fedora.md",
     "Linux/Gnome Extensions.md",
     "Linux/SSH Keys.md",
     "Linux/Obsidian.md",
-    "Files/Obsidian Welcome Screen.png",
-    "Files/npm.png",
-    "Files/RescueTime.png"
+    "Files/Obsidian Welcome Screen.png"
   ]
 }
