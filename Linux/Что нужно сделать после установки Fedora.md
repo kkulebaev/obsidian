@@ -2,7 +2,9 @@
     
 -  Определить [[Git credentials]]
     
--  Установить [[Obsidian]]
+- Сделать [[SSH Keys]]
+    
+- Установить [[Obsidian]]
     
 -  Fstab 
     https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../fstab

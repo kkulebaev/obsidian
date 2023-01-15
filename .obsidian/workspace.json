@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md",
+                "file": "Linux/SSH Keys.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md",
+                "file": "Linux/SSH Keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md",
+                "file": "Linux/SSH Keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md"
+                "file": "Linux/SSH Keys.md"
               }
             }
           }
@@ -182,13 +182,13 @@
   },
   "active": "2c405cc6f10a1aa4",
   "lastOpenFiles": [
+    "Linux/Что нужно сделать после установки Fedora.md",
     "Linux/Programming languages.md",
     "Linux/Gnome Extensions.md",
     "Linux/Git credentials.md",
     "Git/Origin Remote.md",
     "Linux/SSH Keys.md",
     "Linux/Obsidian.md",
-    "Linux/Что нужно сделать после установки Fedora.md",
     "Linux/FlutHub.md",
     "Linux/Flatpak apps.md",
     "Linux/Brave.md"
