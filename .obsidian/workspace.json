@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Programming languages.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Origin Remote.md",
+                "file": "Linux/Git credentials.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Gnome Extensions.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Gnome Extensions.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Gnome Extensions.md"
+                "file": "Linux/Что нужно сделать после установки Fedora.md"
               }
             }
           }
@@ -181,17 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2db5fffa2d663e10",
+  "active": "2c405cc6f10a1aa4",
   "lastOpenFiles": [
+    "Linux/Programming languages.md",
+    "Linux/Gnome Extensions.md",
+    "Linux/Git credentials.md",
+    "Git/Origin Remote.md",
+    "Linux/SSH Keys.md",
     "Linux/Obsidian.md",
     "Linux/Что нужно сделать после установки Fedora.md",
-    "Linux/Git.md",
     "Linux/FlutHub.md",
     "Linux/Flatpak apps.md",
-    "Linux/Brave.md",
-    "Git/Origin Remote.md",
-    "Linux/Programming languages.md",
-    "Linux/SSH Keys.md",
-    "Linux/Gnome Extensions.md"
+    "Linux/Brave.md"
   ]
 }

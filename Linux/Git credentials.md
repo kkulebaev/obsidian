@@ -1,8 +1,3 @@
-Устанавливаем `git`
-```sh
-sudo dnf install git-all
-```
-
 Определяем в глобальном конфиге username и email
 ```sh
 git config --global user.name "kkulebaev"

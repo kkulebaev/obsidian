@@ -1,6 +1,8 @@
--   Включить репозиторий [[FlutHub]]
+-  Включить репозиторий [[FlutHub]]
     
--   Установить [[Obsidian]]
+-  Определить [[Git credentials]]
+    
+-  Установить [[Obsidian]]
     
 -  Fstab 
     https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../fstab
