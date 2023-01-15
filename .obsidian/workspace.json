@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md",
+                "file": "Linux/Внешний вид.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Cisco AnyConnect.md",
+                "file": "Linux/Внешний вид.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Cisco AnyConnect.md",
+                "file": "Linux/Внешний вид.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Cisco AnyConnect.md"
+                "file": "Linux/Внешний вид.md"
               }
             }
           }
@@ -193,17 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a449f9afcace693",
+  "active": "69f06164bb372314",
   "lastOpenFiles": [
     "Linux/Что нужно сделать после установки Fedora.md",
-    "Linux/Flatpak apps.md",
-    "Linux/Внешний вид.md",
     "Linux/Gnome Extensions.md",
+    "Linux/Внешний вид.md",
+    "Linux/Cisco AnyConnect.md",
+    "Linux/Flatpak apps.md",
     "Linux/Programming languages.md",
     "Linux/Console utils.md",
     "Files/Sync Settings Brave.png",
     "Linux/zsh + oh-my-zsh.md",
-    "Linux/Hotkeys.md",
-    "Linux/Aliases.md"
+    "Linux/Hotkeys.md"
   ]
 }
