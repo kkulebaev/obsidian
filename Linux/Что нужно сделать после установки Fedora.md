@@ -1,4 +1,4 @@
--  Включить репозиторий [[FlutHub]]
+Копировать выбранный текст -  Включить репозиторий [[FlutHub]]
     
 -  [[Git credentials]]
     
@@ -20,11 +20,11 @@
     
 -  [[Aliases]]
     
--  [[Hotkeys]]
+-  Установить [[Gnome Extensions]]
+     
+- [[Внешний вид]]
     
--  [[Внешний вид]]
-    
--  [[Programming languages]]
+- [[Programming languages]]
     
 -  [VSCode](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
       
@@ -35,8 +35,6 @@
 -  Установить [[Flatpak apps]]
     
 -  Установить Cisco Anyconnect
-    
--  Установить [[Gnome Extensions]]
     
 -  Настроить WireGuard (VPN)
     [https://habr.com/ru/post/432686/](https://habr.com/ru/post/432686/)

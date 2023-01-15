@@ -8,7 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94a1c2549815880c",
+            "id": "69f06164bb372314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f223837063b8e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Flatpak apps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "393927d3a8fd447e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Programming languages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98bcd1390c96ea4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,64 +52,6 @@
                 "file": "Linux/Gnome Extensions.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a3ac06f1345eb475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Внешний вид.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf185c58803f5abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Hotkeys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69f06164bb372314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/zsh + oh-my-zsh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1ddb63cb800f754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Console utils.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c99f788759c8c1cb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Files/Sync Settings Brave.png"
               }
             }
           }
@@ -143,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Gnome Extensions.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Gnome Extensions.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Gnome Extensions.md"
+                "file": "Linux/Что нужно сделать после установки Fedora.md"
               }
             }
           }
@@ -202,17 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94a1c2549815880c",
+  "active": "69f06164bb372314",
   "lastOpenFiles": [
-    "Files/Lock Keys Settings.png",
-    "Linux/Gnome Extensions.md",
+    "Linux/Flatpak apps.md",
     "Linux/Что нужно сделать после установки Fedora.md",
-    "Linux/Brave.md",
     "Linux/Внешний вид.md",
-    "Linux/Hotkeys.md",
-    "Linux/zsh + oh-my-zsh.md",
+    "Linux/Gnome Extensions.md",
+    "Linux/Programming languages.md",
     "Linux/Console utils.md",
-    "Linux/Aliases.md",
-    "Files/Sync Settings Brave.png"
+    "Files/Sync Settings Brave.png",
+    "Linux/zsh + oh-my-zsh.md",
+    "Linux/Hotkeys.md",
+    "Linux/Aliases.md"
   ]
 }

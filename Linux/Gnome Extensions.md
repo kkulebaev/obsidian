@@ -18,6 +18,13 @@ gtktitlebar@velitasali.github.io
 
 ## ddterm
 ddterm@amezin.github.com
+- Поведение -> Скрывать при потере фокуса
+- Цвета -> Непрозрачность фона 80%
+- Значок на панели -> Иконка на панели -> Отключено
+- Комбинация клавиш -> Переключение видимости окна терминала -> Super + Return
+- Комбинация клавиш -> Копировать выбранный текст -> Ctrl + C
+- Комбинация клавиш -> Вставить текст из буфера обмена -> Ctrl + V
+- Текст -> Пользовательский шрифт -> Monospace Regular 14
 
 ## Maximaze To Empty Workspace
 MaximizeToEmptyWorkspace-extension@kaisersite.de
