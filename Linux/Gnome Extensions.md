@@ -1,3 +1,8 @@
+Устанавливаем менеджер расширений `Gnome Shell Extensions`
+```sh
+flatpak install flathub com.mattjakeman.ExtensionManager
+```
+
 ## Vitals
 Vitals@CoreCoding.com
 

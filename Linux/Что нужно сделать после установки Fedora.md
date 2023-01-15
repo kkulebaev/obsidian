@@ -1,10 +1,20 @@
--   Выполнить шаги по туториалу  
-    [https://plafon.gitbook.io/fedora-zero/](https://plafon.gitbook.io/fedora-zero/)
+-   Включить репозиторий [[FlutHub]]
     
--   Выполнить шаги по туториалу  
-    [https://plafon.gitbook.io/fedora-zero/](https://plafon.gitbook.io/fedora-zero/)
+-   Установить [[Obsidian]]
     
--   Установит Snapper для снэпшотов системы [https://davejansen.com/fedora-root-snapshot-support/](https://davejansen.com/fedora-root-snapshot-support/)
+-  Fstab 
+    https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../fstab
+    
+-  Ускоряем DNF 
+    https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../uskoryaem-dnf
+    
+-  Gnome Tweaks
+    https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../dop.-nastroiki-gnome
+    
+-  Установка драйверов для Nvidia
+    https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../dop.-nastroiki-gnome
+    
+- Установит Snapper для снэпшотов системы [https://davejansen.com/fedora-root-snapshot-support/](https://davejansen.com/fedora-root-snapshot-support/)
     
 - Установить браузер [[Brave]]
     

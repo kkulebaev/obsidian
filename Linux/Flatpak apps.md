@@ -18,19 +18,9 @@ flatpak install de.shorsh.discord-screenaudio
 flatpak install com.transmissionbt.Transmission
 ```
 
-## Obsidian
-```
-flatpak install md.obsidian.Obsidian
-```
-
 ## Celluloid
 ```sh
 flatpak install io.github.celluloid_player.Celluloid
-```
-
-## Thunderbird
-```sh
-flatpak install org.mozilla.Thunderbird
 ```
 
 ## Steam
