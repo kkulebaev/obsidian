@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "fc37e5d9bc4a451c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Files/Obsidian Welcome Screen.png"
+              }
+            }
+          },
+          {
             "id": "8d4bf20bd34e60c2",
             "type": "leaf",
             "state": {
@@ -182,15 +192,15 @@
   },
   "active": "2c405cc6f10a1aa4",
   "lastOpenFiles": [
-    "Linux/Что нужно сделать после установки Fedora.md",
-    "Linux/SSH Keys.md",
-    "Linux/Programming languages.md",
-    "Linux/Gnome Extensions.md",
-    "Linux/Git credentials.md",
-    "Git/Origin Remote.md",
+    "Files/Obsidian Welcome Screen.png",
+    "Files/npm.png",
+    "Files/RescueTime.png",
+    "Files/Web worker render.png",
+    "Files/Pasted image 20230115202401.png",
+    "Files/Mona Sans.png",
+    "Files/Masonry.jpeg",
     "Linux/Obsidian.md",
-    "Linux/FlutHub.md",
-    "Linux/Flatpak apps.md",
-    "Linux/Brave.md"
+    "Linux/Что нужно сделать после установки Fedora.md",
+    "Linux/SSH Keys.md"
   ]
 }
