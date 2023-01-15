@@ -1,6 +1,9 @@
 -   Выполнить шаги по туториалу  
     [https://plafon.gitbook.io/fedora-zero/](https://plafon.gitbook.io/fedora-zero/)
     
+-   Выполнить шаги по туториалу  
+    [https://plafon.gitbook.io/fedora-zero/](https://plafon.gitbook.io/fedora-zero/)
+    
 -   Установит Snapper для снэпшотов системы [https://davejansen.com/fedora-root-snapshot-support/](https://davejansen.com/fedora-root-snapshot-support/)
     
 - Установить браузер [[Brave]]

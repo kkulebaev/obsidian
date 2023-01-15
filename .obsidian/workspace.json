@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Origin Remote.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Origin Remote.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Origin Remote.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Origin Remote.md"
+                "file": "Linux/Что нужно сделать после установки Fedora.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "2c405cc6f10a1aa4",
   "lastOpenFiles": [
+    "Git/Origin Remote.md",
     "Frontend/Fonts/Mona Sans.md",
     "Linux/Aliases.md",
     "Linux/Что нужно сделать после установки Fedora.md",
@@ -154,7 +155,6 @@
     "English words.md",
     "TODO List.md",
     "Records.md",
-    "Git/Origin Remote.md",
     "Linux/Remote server + VPN.md",
     "Linux/Programming languages.md"
   ]
