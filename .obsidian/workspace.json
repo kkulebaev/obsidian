@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SSH Keys.md",
+                "file": "Linux/Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/SSH Keys.md",
+                "file": "Linux/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/SSH Keys.md",
+                "file": "Linux/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/SSH Keys.md"
+                "file": "Linux/Obsidian.md"
               }
             }
           }
@@ -183,11 +183,11 @@
   "active": "2c405cc6f10a1aa4",
   "lastOpenFiles": [
     "Linux/Что нужно сделать после установки Fedora.md",
+    "Linux/SSH Keys.md",
     "Linux/Programming languages.md",
     "Linux/Gnome Extensions.md",
     "Linux/Git credentials.md",
     "Git/Origin Remote.md",
-    "Linux/SSH Keys.md",
     "Linux/Obsidian.md",
     "Linux/FlutHub.md",
     "Linux/Flatpak apps.md",
