@@ -16,7 +16,7 @@
     https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../dop.-nastroiki-gnome
     
 -  Установка драйверов для Nvidia
-    https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../dop.-nastroiki-gnome
+    https://plafon.gitbook.io/fedora-zero/fedora-zero/videokarty/nvidia/ustanovka-draiverov-dlya-nvidia
     
 - Установит Snapper для снэпшотов системы [https://davejansen.com/fedora-root-snapshot-support/](https://davejansen.com/fedora-root-snapshot-support/)
     
