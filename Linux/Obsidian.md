@@ -5,7 +5,7 @@ flatpak install md.obsidian.Obsidian
 
 Клонируем синхронизированный репозиторий
 ```sh
-git clone https://github.com/kkulebaev/obsidian.git ~/obsidian
+git clone git@github.com:kkulebaev/obsidian.git ~/obsidian
 ```
 
 При открытии Obsidian выбираем директорию клонированную из репозитория

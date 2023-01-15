@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md",
+                "file": "Linux/Programming languages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d4bf20bd34e60c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/SSH Keys.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,18 +44,6 @@
             }
           },
           {
-            "id": "72c6fcbde207cfd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Что нужно сделать после установки Fedora.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4ad4c8e25b86d771",
             "type": "leaf",
             "state": {
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Origin Remote.md",
+                "file": "Linux/Gnome Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Origin Remote.md",
+                "file": "Linux/Gnome Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Origin Remote.md"
+                "file": "Linux/Gnome Extensions.md"
               }
             }
           }
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,17 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ad4c8e25b86d771",
+  "active": "2db5fffa2d663e10",
   "lastOpenFiles": [
-    "Linux/Remote server + VPN.md",
-    "Linux/Programming languages.md",
-    "Linux/Что нужно сделать после установки Fedora.md",
     "Linux/Obsidian.md",
-    "Linux/Flatpak apps.md",
-    "Linux/Gnome Extensions.md",
+    "Linux/Что нужно сделать после установки Fedora.md",
+    "Linux/Git.md",
     "Linux/FlutHub.md",
+    "Linux/Flatpak apps.md",
+    "Linux/Brave.md",
     "Git/Origin Remote.md",
-    "Frontend/Fonts/Mona Sans.md",
-    "Linux/Aliases.md"
+    "Linux/Programming languages.md",
+    "Linux/SSH Keys.md",
+    "Linux/Gnome Extensions.md"
   ]
 }

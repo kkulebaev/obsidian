@@ -1,8 +1,3 @@
-## Git
-```sh
-sudo dnf install git-all
-```
-
 ## Go
 
 ```sh
