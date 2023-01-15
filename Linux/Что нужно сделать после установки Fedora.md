@@ -34,8 +34,6 @@
 -   Установить VSCode  
     [https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
       
-- Сделать [[SSH Keys]]
-    
 -   Установить Docker [https://docs.docker.com/engine/install/fedora/](https://docs.docker.com/engine/install/fedora/)
     
 -   Настроить докер, чтоб работал без команды `sudo`  
