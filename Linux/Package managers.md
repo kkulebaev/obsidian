@@ -6,3 +6,8 @@ curl --silent --location https://dl.yarnpkg.com/rpm/yarn.repo | sudo tee /etc/yu
 ```sh
 sudo dnf install yarn
 ```
+
+## pnpm
+```sh
+curl -fsSL [https://get.pnpm.io/install.sh](https://get.pnpm.io/install.sh) | sh -
+```
