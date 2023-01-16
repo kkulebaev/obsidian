@@ -30,6 +30,8 @@
       
 - [WebStorm](https://www.jetbrains.com/help/webstorm/installation-guide.html#toolbox)
      
+- [[Установить шрифт MonoLisa]]
+     
 - [Docker]([https://docs.docker.com/engine/install/fedora/)
     
 -  [Настроить докер](https://docs.docker.com/engine/install/linux-postinstall/), чтоб работал без команды `sudo` 

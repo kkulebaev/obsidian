@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "673f1c5520dbda50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Установить шрифт MonoLisa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8a449f9afcace693",
             "type": "leaf",
             "state": {
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Внешний вид.md",
+                "file": "Linux/Установить шрифт MonoLisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Внешний вид.md",
+                "file": "Linux/Установить шрифт MonoLisa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Внешний вид.md"
+                "file": "Linux/Установить шрифт MonoLisa.md"
               }
             }
           }
@@ -192,17 +205,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69f06164bb372314",
+  "active": "673f1c5520dbda50",
   "lastOpenFiles": [
+    "Linux/Что нужно сделать после установки Fedora.md",
+    "Linux/Установить шрифт MonoLisa.md",
+    "Linux/Внешний вид.md",
     "Linux/Gnome Extensions.md",
     "Linux/Console utils.md",
-    "Linux/Что нужно сделать после установки Fedora.md",
-    "Linux/Внешний вид.md",
     "Linux/Cisco AnyConnect.md",
     "Linux/Flatpak apps.md",
     "Linux/Programming languages.md",
     "Files/Sync Settings Brave.png",
-    "Linux/zsh + oh-my-zsh.md",
-    "Linux/Hotkeys.md"
+    "Linux/zsh + oh-my-zsh.md"
   ]
 }
