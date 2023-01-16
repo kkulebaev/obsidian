@@ -28,7 +28,9 @@
     
 -  [VSCode](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
       
--  [Docker]([https://docs.docker.com/engine/install/fedora/)
+- [WebStorm](https://www.jetbrains.com/help/webstorm/installation-guide.html#toolbox)
+     
+- [Docker]([https://docs.docker.com/engine/install/fedora/)
     
 -  [Настроить докер](https://docs.docker.com/engine/install/linux-postinstall/), чтоб работал без команды `sudo` 
     
