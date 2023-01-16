@@ -26,7 +26,7 @@ ddterm@amezin.github.com
 - Комбинация клавиш -> Вставить текст из буфера обмена -> Ctrl + V
 - Комбинация клавиш -> Новая вкладка - После последней вкладки -> Ctrl + T
 - - Комбинация клавиш -> Закрыть текущую вкладку -> Ctrl + W
-- Текст -> Пользовательский шрифт -> Monospace Regular 14
+- Текст -> Пользовательский шрифт -> MonoLisa Bold 16
 
 ## Maximaze To Empty Workspace
 MaximizeToEmptyWorkspace-extension@kaisersite.de
