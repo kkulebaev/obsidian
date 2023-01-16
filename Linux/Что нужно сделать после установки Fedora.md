@@ -26,6 +26,8 @@
     
 - [[Programming languages]]
     
+- [[Package managers]]
+    
 -  [VSCode](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
       
 - [WebStorm](https://www.jetbrains.com/help/webstorm/installation-guide.html#toolbox)
