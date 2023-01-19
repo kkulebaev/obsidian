@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Package managers.md",
+                "file": "Git/Origin Remote.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Package managers.md",
+                "file": "Git/Origin Remote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Package managers.md",
+                "file": "Git/Origin Remote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Package managers.md"
+                "file": "Git/Origin Remote.md"
               }
             }
           }
@@ -158,10 +158,10 @@
   },
   "active": "f5e4e3c120c85c8a",
   "lastOpenFiles": [
+    "Linux/Package managers.md",
     "Linux/Внешний вид.md",
     "Linux/Brave.md",
     "Linux/Что нужно сделать после установки Fedora.md",
-    "Linux/Package managers.md",
     "Linux/Programming languages.md",
     "Linux/Console utils.md",
     "Linux/Gnome Extensions.md",
