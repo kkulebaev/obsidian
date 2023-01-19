@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Origin Remote.md",
+                "file": "Linux/Git credentials.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Origin Remote.md",
+                "file": "Linux/Git credentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Origin Remote.md",
+                "file": "Linux/Git credentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Origin Remote.md"
+                "file": "Linux/Git credentials.md"
               }
             }
           }
@@ -158,15 +158,15 @@
   },
   "active": "f5e4e3c120c85c8a",
   "lastOpenFiles": [
-    "Linux/Package managers.md",
+    "Linux/Смена языка по Alt + Shift.md",
     "Linux/Внешний вид.md",
+    "Git/Origin Remote.md",
+    "Linux/Package managers.md",
     "Linux/Brave.md",
     "Linux/Что нужно сделать после установки Fedora.md",
     "Linux/Programming languages.md",
     "Linux/Console utils.md",
     "Linux/Gnome Extensions.md",
-    "Linux/Flatpak apps.md",
-    "Linux/Cisco AnyConnect.md",
-    "Linux/Установить шрифт MonoLisa.md"
+    "Linux/Flatpak apps.md"
   ]
 }
