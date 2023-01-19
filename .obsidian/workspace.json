@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Запуск БД.md",
+                "file": "Docker/Работа с postgres.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Запуск БД.md",
+                "file": "Docker/Работа с postgres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Запуск БД.md",
+                "file": "Docker/Работа с postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Запуск БД.md"
+                "file": "Docker/Работа с postgres.md"
               }
             }
           }
@@ -169,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "970fe9be292eb51c",
+  "active": "6794c71f9729bbcf",
   "lastOpenFiles": [
     "Фильмы.md",
     "Linux/Что нужно сделать после установки Fedora.md",
