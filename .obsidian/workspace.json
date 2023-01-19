@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Git credentials.md",
+                "file": "Фильмы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6794c71f9729bbcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Запуск БД.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Git credentials.md",
+                "file": "Docker/Запуск БД.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Git credentials.md",
+                "file": "Docker/Запуск БД.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Git credentials.md"
+                "file": "Docker/Запуск БД.md"
               }
             }
           }
@@ -156,17 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5e4e3c120c85c8a",
+  "active": "970fe9be292eb51c",
   "lastOpenFiles": [
+    "Фильмы.md",
+    "Linux/Что нужно сделать после установки Fedora.md",
+    "Linux/Git credentials.md",
     "Linux/Смена языка по Alt + Shift.md",
     "Linux/Внешний вид.md",
     "Git/Origin Remote.md",
     "Linux/Package managers.md",
     "Linux/Brave.md",
-    "Linux/Что нужно сделать после установки Fedora.md",
     "Linux/Programming languages.md",
-    "Linux/Console utils.md",
-    "Linux/Gnome Extensions.md",
-    "Linux/Flatpak apps.md"
+    "Linux/Console utils.md"
   ]
 }
