@@ -47,3 +47,8 @@ insert into [TABLE_NAME] (first_name, last_name) values ('Konstantin', 'Kulebaev
 ```sh
 select * from [TABLE_NAME];
 ```
+
+Обновить данные в строке
+```sh
+update [TABLE_NAME] set [COLUMN_NAME]=[NEW_VALUE] where id=1
+```
