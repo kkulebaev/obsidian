@@ -1,6 +1,6 @@
 Запустить контейнер с образом `posgres` и названием `guardian-of-finance-db`, где будет переменная окружения `POSTGRES_PASSWORD=qwerty123`
 ```sh
-docker run --name guardian-of-finance-db -e POSTGRES_PASSWORD=qwerty123 -d --rm postgres
+docker run --name=guardian-of-finance-db -e POSTGRES_PASSWORD='qwerty123' -p 5436:5432 -d --rm postgres
 ```
 
 Подключаемся к контейнеру
