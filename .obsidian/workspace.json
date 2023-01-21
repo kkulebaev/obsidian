@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Работа с postgres.md",
+                "file": "English words.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Работа с postgres.md",
+                "file": "English words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Работа с postgres.md",
+                "file": "English words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Работа с postgres.md"
+                "file": "English words.md"
               }
             }
           }
@@ -171,15 +171,15 @@
   },
   "active": "6794c71f9729bbcf",
   "lastOpenFiles": [
+    "Git/Origin Remote.md",
+    "Docker/Работа с postgres.md",
     "Фильмы.md",
     "Linux/Что нужно сделать после установки Fedora.md",
     "Linux/Git credentials.md",
     "Linux/Смена языка по Alt + Shift.md",
     "Linux/Внешний вид.md",
-    "Git/Origin Remote.md",
     "Linux/Package managers.md",
     "Linux/Brave.md",
-    "Linux/Programming languages.md",
-    "Linux/Console utils.md"
+    "Linux/Programming languages.md"
   ]
 }
