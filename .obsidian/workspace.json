@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Работа с postgres.md",
+                "file": "Linux/Remote server + VPN.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Работа с postgres.md",
+                "file": "Linux/Remote server + VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Работа с postgres.md",
+                "file": "Linux/Remote server + VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Работа с postgres.md"
+                "file": "Linux/Remote server + VPN.md"
               }
             }
           }
@@ -171,15 +171,15 @@
   },
   "active": "6794c71f9729bbcf",
   "lastOpenFiles": [
+    "Contacts/Telegram.md",
+    "Linux/Что нужно сделать после установки Fedora.md",
+    "Linux/Remote server + VPN.md",
+    "Docker/Работа с postgres.md",
     "English words.md",
     "Git/Origin Remote.md",
-    "Docker/Работа с postgres.md",
     "Фильмы.md",
-    "Linux/Что нужно сделать после установки Fedora.md",
     "Linux/Git credentials.md",
     "Linux/Смена языка по Alt + Shift.md",
-    "Linux/Внешний вид.md",
-    "Linux/Package managers.md",
-    "Linux/Brave.md"
+    "Linux/Внешний вид.md"
   ]
 }
