@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Remote server + VPN.md",
+                "file": "Docker/Работа с postgres.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Remote server + VPN.md",
+                "file": "Docker/Работа с postgres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Remote server + VPN.md",
+                "file": "Docker/Работа с postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Remote server + VPN.md"
+                "file": "Docker/Работа с postgres.md"
               }
             }
           }
@@ -171,9 +171,9 @@
   },
   "active": "6794c71f9729bbcf",
   "lastOpenFiles": [
+    "Linux/Remote server + VPN.md",
     "Contacts/Telegram.md",
     "Linux/Что нужно сделать после установки Fedora.md",
-    "Linux/Remote server + VPN.md",
     "Docker/Работа с postgres.md",
     "English words.md",
     "Git/Origin Remote.md",
