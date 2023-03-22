@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Работа с postgres.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Работа с postgres.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Работа с postgres.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Работа с postgres.md"
+                "file": "Linux/Что нужно сделать после установки Fedora.md"
               }
             }
           }
@@ -171,10 +171,10 @@
   },
   "active": "6794c71f9729bbcf",
   "lastOpenFiles": [
+    "Docker/Работа с postgres.md",
     "Linux/Remote server + VPN.md",
     "Contacts/Telegram.md",
     "Linux/Что нужно сделать после установки Fedora.md",
-    "Docker/Работа с postgres.md",
     "English words.md",
     "Git/Origin Remote.md",
     "Фильмы.md",
