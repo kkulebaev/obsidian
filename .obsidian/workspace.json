@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Git credentials.md",
+                "file": "Linux/Aliases.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Git credentials.md",
+                "file": "Linux/Aliases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Git credentials.md",
+                "file": "Linux/Aliases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Git credentials.md"
+                "file": "Linux/Aliases.md"
               }
             }
           }
@@ -179,6 +179,8 @@
   },
   "active": "6794c71f9729bbcf",
   "lastOpenFiles": [
+    "Linux/zsh + oh-my-zsh.md",
+    "Linux/Git credentials.md",
     "Linux/Brave.md",
     "Git/Origin Remote.md",
     "Linux/Console utils.md",
@@ -194,14 +196,12 @@
     "Verses/Чернобыль.md",
     "Verses/Верь в себя.md",
     "Verses/2015.md",
-    "Linux/zsh + oh-my-zsh.md",
     "Linux/SSH Keys.md",
     "Linux/Remote server + VPN.md",
     "Linux/Programming languages.md",
     "Linux/Package managers.md",
     "Linux/Obsidian.md",
     "Linux/Gnome Extensions.md",
-    "Linux/Git credentials.md",
     "Linux/FlutHub.md",
     "Linux/Flatpak apps.md",
     "Linux/Cisco AnyConnect.md",
