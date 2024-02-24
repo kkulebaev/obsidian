@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d11983504dc807fe",
+        "id": "3b359d6e9c40c29c",
         "type": "tabs",
         "children": [
           {
-            "id": "f5e4e3c120c85c8a",
+            "id": "5a03fd3e104d1876",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Фильмы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6794c71f9729bbcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Aliases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b1479a290850929",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/WSL Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "550ad1fc5496b47f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Package managers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/WSL Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/WSL Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/WSL Commands.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -189,10 +144,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b1479a290850929",
+  "active": "5a03fd3e104d1876",
   "lastOpenFiles": [
+    "Linux/Package managers.md",
+    "WSL/WSL Commands.md",
+    "Files/Lock Keys Settings.png",
+    "Фильмы.md",
+    "Records.md",
+    "TODO List.md",
+    "Finance.md",
+    "English words.md",
     "Linux/Aliases.md",
-    "Linux/WSL Commands.md",
     "WSL",
     "Linux/zsh + oh-my-zsh.md",
     "Linux/Git credentials.md",
@@ -212,12 +174,6 @@
     "Verses/Верь в себя.md",
     "Verses/2015.md",
     "Linux/SSH Keys.md",
-    "Linux/Remote server + VPN.md",
-    "Linux/Programming languages.md",
-    "Linux/Package managers.md",
-    "Linux/Obsidian.md",
-    "Linux/Gnome Extensions.md",
-    "Linux/FlutHub.md",
     "Files/Pasted image 20230519161834.png"
   ]
 }
