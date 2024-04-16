@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3b359d6e9c40c29c",
+        "id": "fcc92b50faeb5f85",
         "type": "tabs",
         "children": [
           {
-            "id": "5a03fd3e104d1876",
+            "id": "dccd051784539f9c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -144,8 +144,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a03fd3e104d1876",
+  "active": "dccd051784539f9c",
   "lastOpenFiles": [
+    "Verses/Для чего нужна жена.md",
     "Records.md",
     "English words.md",
     "Фильмы.md",
@@ -173,7 +174,6 @@
     "Linux/Внешний вид.md",
     "Frontend/Fonts/Mona Sans.md",
     "Contacts/Telegram.md",
-    "Frontend/Libs/Masonry.md",
     "Files/Pasted image 20230519161834.png"
   ]
 }
