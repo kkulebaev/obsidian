@@ -3,9 +3,9 @@
 npm adduser
 ```
 
-Опубликовать пакет
+Запушить пакет (при публикации впервые нужен флаг `--access=public`)
 ```sh
-npm publish --access=public
+npm publish
 ```
 
 Проставить тег для обновления пакета
