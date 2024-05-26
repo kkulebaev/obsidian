@@ -19,3 +19,12 @@ Help out - выручать
 ## Типичные слова
 Sparkling water - вода с газом  
 Still water - вода без газа
+
+## На изучение
+To annoy - раздражать
+Annoying - раздражающий
+Fall out with - поссориться с
+Confident - уверенный
+Patient - терпеливый
+Reliable - надежный
+Get in touch - связаться
