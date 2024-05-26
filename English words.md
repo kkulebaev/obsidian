@@ -21,10 +21,11 @@ Sparkling water - вода с газом
 Still water - вода без газа
 
 ## На изучение
-To annoy - раздражать
-Annoying - раздражающий
-Fall out with - поссориться с
-Confident - уверенный
-Patient - терпеливый
-Reliable - надежный
-Get in touch - связаться
+to annoy - раздражать
+annoying - раздражающий
+to affraid - бояться 
+fall out with - поссориться с
+confident - уверенный
+patient - терпеливый
+reliable - надежный
+get in touch - связаться
