@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fedora/Что нужно сделать после установки Fedora.md",
+                "file": "develop/font/mona_sans.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fedora/Что нужно сделать после установки Fedora.md",
+                "file": "develop/font/mona_sans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fedora/Что нужно сделать после установки Fedora.md",
+                "file": "develop/font/mona_sans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fedora/Что нужно сделать после установки Fedora.md"
+                "file": "develop/font/mona_sans.md"
               }
             }
           }
@@ -165,23 +165,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f6a4eb4feb3e4a4",
+  "active": "970fe9be292eb51c",
   "lastOpenFiles": [
+    "develop/libraries/masonry_template.md",
+    "develop/forking_modifying_and_publishing_npm_packages.md",
+    "develop/render_diffs_app_in_a_web_worker.md",
+    "develop/rescue_time.md",
+    "develop/wsl_commands.md",
+    "develop/nvm_commands.md",
+    "develop/git_commands.md",
+    "develop/npm_commands.md",
+    "fedora/Что нужно сделать после установки Fedora.md",
     "fedora/Installation Obsidian from Flatpack.md",
     "fedora/Gnome Extensions.md",
     "assets/masonry_template.jpeg",
     "assets/obsidian_cover.png",
     "README.md",
-    "develop/RescueTime.md",
-    "develop/Render Diffs app in a Web Worker.md",
-    "develop/Forking, Modifying, and Publishing NPM Packages.md",
-    "develop/Libs/Masonry.md",
-    "develop/Fonts/Mona Sans.md",
+    "develop/font/mona_sans.md",
     "fedora/Brave.md",
-    "fedora/Что нужно сделать после установки Fedora.md",
-    "docker_io/Работа с postgres.md",
-    "docker_io/Untitled.md",
-    "docker_io/Основные команды.md",
+    "docker/Работа с postgres.md",
+    "docker/Untitled.md",
+    "docker/Основные команды.md",
     "assets/web_worker_render.png",
     "assets/rescue_time.png",
     "assets/gnome_tweaks_settings.png",
@@ -189,20 +193,16 @@
     "assets/obsidian_welcome_screen.png",
     "assets/mona_sans.png",
     "assets/lock_keys_settings.png",
-    "NVM Commands.md",
     "English words.md",
     "fedora/Package managers.md",
     "assets/npm.png",
     "assets/sync_brave_settings.png",
     "Records.md",
-    "NPM Command.md",
-    "Git Commands.md",
-    "WSL Commands.md",
-    "my_verses/Для чего нужна жена.md",
+    "verses/Для чего нужна жена.md",
     "Фильмы.md",
-    "my_verses/Верь в себя.md",
-    "my_verses/Content.md",
-    "my_verses/2015.md",
+    "verses/Верь в себя.md",
+    "verses/Content.md",
+    "verses/2015.md",
     "WSL"
   ]
 }
