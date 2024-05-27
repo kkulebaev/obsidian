@@ -4,7 +4,7 @@
     
 -  [[SSH Keys]]
     
--  [[Installation Obsidian from Flatpak]]
+-  [[Installation Obsidian from Flatpack]]
     
 -  [Fstab](https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../fstab)
     

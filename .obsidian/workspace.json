@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Installation Obsidian from Flatpak.md",
+                "file": "Linux/Installation Obsidian from Flatpack.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,9 +174,9 @@
   },
   "active": "dccd051784539f9c",
   "lastOpenFiles": [
-    "Linux/Installation Obsidian from Flatpak.md",
-    "Files/obsidian-cover.png",
+    "Linux/Installation Obsidian from Flatpack.md",
     "README.md",
+    "Files/obsidian-cover.png",
     "NVM Commands.md",
     "English words.md",
     "Linux/Package managers.md",
