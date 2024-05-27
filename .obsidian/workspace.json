@@ -47,11 +47,9 @@
             "id": "19745f47a2554317",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Obsidian Welcome Screen.png"
               }
             }
           }
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "Files/Obsidian Welcome Screen.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "Files/Obsidian Welcome Screen.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "Files/Obsidian Welcome Screen.png"
               }
             }
           }
@@ -191,14 +189,23 @@
   },
   "active": "19745f47a2554317",
   "lastOpenFiles": [
-    "Records.md",
-    "Files/obsidian-cover.png",
-    "Files/Obsidian Welcome Screen.png",
+    "Files/npm.png",
+    "Files/Masonry.jpeg",
+    "Files/Lock Keys Settings.png",
+    "Files/Web worker render.png",
+    "Files/Sync Settings Brave.png",
+    "Files/RescueTime.png",
+    "Files/Pasted image 20230116011137.png",
+    "Files/Pasted image 20230519161834.png",
     "README.md.md",
-    "English words.md",
-    "NPM Command.md",
+    "Files/obsidian-cover.png",
+    "Records.md",
+    "Linux/Внешний вид.md",
     "NVM Commands.md",
+    "NPM Command.md",
     "Git Commands.md",
+    "Files/Obsidian Welcome Screen.png",
+    "English words.md",
     "Linux/Package managers.md",
     "WSL Commands.md",
     "Docker/Работа с postgres.md",
@@ -211,15 +218,12 @@
     "Frontend/RescueTime.md",
     "Frontend/Render Diffs app in a Web Worker.md",
     "Frontend/Forking, Modifying, and Publishing NPM Packages.md",
-    "Files/Lock Keys Settings.png",
     "TODO List.md",
     "Finance.md",
     "Linux/Aliases.md",
     "WSL",
     "Linux/zsh + oh-my-zsh.md",
     "Linux/Git credentials.md",
-    "Linux/Brave.md",
-    "Linux/Console utils.md",
-    "Files/Pasted image 20230519161834.png"
+    "Linux/Brave.md"
   ]
 }
