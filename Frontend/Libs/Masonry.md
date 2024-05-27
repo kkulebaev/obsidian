@@ -1,5 +1,5 @@
 Библиотека для сетки фотографий
-![[../../Files/masonry.jpeg]]
+![[files/masonry.jpeg]]
 https://masonry.desandro.com/
 
 #frontend #lib

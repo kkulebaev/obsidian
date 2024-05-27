@@ -11,7 +11,7 @@ user-theme-x@tuberry.github.io
 
 ## Lock Keys
 lockkeys@vaina.lt
-![[../Files/lock_keys_settings.png]]
+![[files/lock_keys_settings.png]]
 
 ## GTK Title Bar
 gtktitlebar@velitasali.github.io

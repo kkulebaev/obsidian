@@ -6,5 +6,5 @@
   "showUnsupportedFiles": false,
   "attachmentFolderPath": "Files",
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "absolute"
 }
