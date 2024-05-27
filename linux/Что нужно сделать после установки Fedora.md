@@ -2,43 +2,43 @@
     
 -  [Git credentials](Git%20credentials.md)
     
--  [[fedora/SSH Keys]]
+-  [SSH Keys](SSH%20Keys.md)
     
--  [[fedora/Installation Obsidian from Flatpack]]
+-  [Installation Obsidian from Flatpack](Installation%20Obsidian%20from%20Flatpack.md)
     
 -  [Fstab](https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../fstab)
     
 -  [Ускоряем DNF](https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../uskoryaem-dnf) 
     
--  [[fedora/Console utils]]
+-  [Console utils](Console%20utils.md)
     
 -  [Установит Snapper для снэпшотов системы](https://davejansen.com/fedora-root-snapshot-support/](https://davejansen.com/fedora-root-snapshot-support/)
     
--  [[fedora/Brave]]
+-  [Brave](Brave.md)
     
--  [[fedora/zsh + oh-my-zsh]]
+-  [zsh + oh-my-zsh](zsh%20+%20oh-my-zsh.md)
     
--  [[fedora/Aliases]]
+-  [Aliases](Aliases.md)
     
--  Установить [[fedora/Gnome Extensions]]
+-  Установить [Gnome Extensions](Gnome%20Extensions.md)
      
-- [[fedora/Внешний вид]]
+- [Внешний вид](Внешний%20вид.md)
     
-- [[fedora/Programming languages]]
+- [Programming languages](Programming%20languages.md)
     
-- [[fedora/Package managers]]
+- [Package managers](Package%20managers.md)
     
 -  [VSCode](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
       
 - [WebStorm](https://www.jetbrains.com/help/webstorm/installation-guide.html#toolbox)
      
-- [[fedora/Установить шрифт MonoLisa]]
+- [Установить шрифт MonoLisa](Установить%20шрифт%20MonoLisa.md)
      
 - [Docker]([https://docs.docker.com/engine/install/fedora/)
     
 -  [Настроить докер](https://docs.docker.com/engine/install/linux-postinstall/), чтоб работал без команды `sudo` 
     
--  Установить [[fedora/Flatpak apps]]
+-  Установить [Flatpak apps](Flatpak%20apps.md)
     
 -  Установить Cisco Anyconnect
     
@@ -46,4 +46,4 @@
     [https://habr.com/ru/post/432686/](https://habr.com/ru/post/432686/)
     [https://bezumkin.ru/sections/servers/3070](https://bezumkin.ru/sections/servers/3070)
     
--   [[fedora/Смена языка по Alt + Shift]]
+-   [Смена языка по Alt + Shift](Смена%20языка%20по%20Alt%20+%20Shift.md)
