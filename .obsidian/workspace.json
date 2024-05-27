@@ -13,46 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Installation Obsidian from Flatpak.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05ce036196e76b7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NVM Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b4312ae31ae53f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English words.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19745f47a2554317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "b7fdd212317609b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -67,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19745f47a2554317",
+  "active": "dccd051784539f9c",
   "lastOpenFiles": [
     "Linux/Installation Obsidian from Flatpak.md",
+    "Files/obsidian-cover.png",
     "README.md",
+    "NVM Commands.md",
+    "English words.md",
     "Linux/Package managers.md",
     "Files/Obsidian Welcome Screen.png",
     "Files/npm.png",
@@ -215,13 +189,10 @@
     "Files/RescueTime.png",
     "Files/Pasted image 20230116011137.png",
     "Files/Pasted image 20230519161834.png",
-    "Files/obsidian-cover.png",
     "Records.md",
     "Linux/Внешний вид.md",
-    "NVM Commands.md",
     "NPM Command.md",
     "Git Commands.md",
-    "English words.md",
     "WSL Commands.md",
     "Docker/Работа с postgres.md",
     "Docker/Основные команды.md",
@@ -238,7 +209,6 @@
     "Linux/Aliases.md",
     "WSL",
     "Linux/zsh + oh-my-zsh.md",
-    "Linux/Git credentials.md",
-    "Linux/Brave.md"
+    "Linux/Git credentials.md"
   ]
 }

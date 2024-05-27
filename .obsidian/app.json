@@ -4,5 +4,6 @@
   "useTab": false,
   "newFileLocation": "current",
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "Files"
+  "attachmentFolderPath": "Files",
+  "useMarkdownLinks": true
 }
