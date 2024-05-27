@@ -16,4 +16,4 @@ sudo dnf install brave-browser
 ```
 
 Выполнить синхронизацию настроек браузера Brave
-![[files/sync_brave_settings.png]]
+![[assets/sync_brave_settings.png]]

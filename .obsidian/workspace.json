@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Что нужно сделать после установки Fedora.md",
+                "file": "fedora/Что нужно сделать после установки Fedora.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "files/masonry_template.jpeg"
+                "file": "assets/masonry_template.jpeg"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "files/masonry_template.jpeg",
+                "file": "assets/masonry_template.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "files/masonry_template.jpeg",
+                "file": "assets/masonry_template.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "files/masonry_template.jpeg"
+                "file": "assets/masonry_template.jpeg"
               }
             }
           }
@@ -165,41 +165,41 @@
   },
   "active": "970fe9be292eb51c",
   "lastOpenFiles": [
-    "files/obsidian_cover.png",
+    "assets/obsidian_cover.png",
     "README.md",
-    "frontend/RescueTime.md",
-    "frontend/Render Diffs app in a Web Worker.md",
-    "frontend/Forking, Modifying, and Publishing NPM Packages.md",
-    "frontend/Libs/Masonry.md",
-    "frontend/Fonts/Mona Sans.md",
-    "linux/Brave.md",
-    "linux/Что нужно сделать после установки Fedora.md",
-    "docker/Работа с postgres.md",
-    "docker/Untitled.md",
-    "docker/Основные команды.md",
-    "files/web_worker_render.png",
-    "files/rescue_time.png",
-    "files/gnome_tweaks_settings.png",
-    "linux/Внешний вид.md",
-    "files/obsidian_welcome_screen.png",
-    "files/mona_sans.png",
-    "files/masonry_template.jpeg",
-    "files/lock_keys_settings.png",
-    "linux/Installation Obsidian from Flatpack.md",
+    "develop/RescueTime.md",
+    "develop/Render Diffs app in a Web Worker.md",
+    "develop/Forking, Modifying, and Publishing NPM Packages.md",
+    "develop/Libs/Masonry.md",
+    "develop/Fonts/Mona Sans.md",
+    "fedora/Brave.md",
+    "fedora/Что нужно сделать после установки Fedora.md",
+    "docker_io/Работа с postgres.md",
+    "docker_io/Untitled.md",
+    "docker_io/Основные команды.md",
+    "assets/web_worker_render.png",
+    "assets/rescue_time.png",
+    "assets/gnome_tweaks_settings.png",
+    "fedora/Внешний вид.md",
+    "assets/obsidian_welcome_screen.png",
+    "assets/mona_sans.png",
+    "assets/masonry_template.jpeg",
+    "assets/lock_keys_settings.png",
+    "fedora/Installation Obsidian from Flatpack.md",
     "NVM Commands.md",
     "English words.md",
-    "linux/Package managers.md",
-    "files/npm.png",
-    "files/sync_brave_settings.png",
+    "fedora/Package managers.md",
+    "assets/npm.png",
+    "assets/sync_brave_settings.png",
     "Records.md",
     "NPM Command.md",
     "Git Commands.md",
     "WSL Commands.md",
-    "verses/Для чего нужна жена.md",
+    "my_verses/Для чего нужна жена.md",
     "Фильмы.md",
-    "verses/Верь в себя.md",
-    "verses/Content.md",
-    "verses/2015.md",
+    "my_verses/Верь в себя.md",
+    "my_verses/Content.md",
+    "my_verses/2015.md",
     "WSL"
   ]
 }
