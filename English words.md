@@ -4,21 +4,6 @@ Do you see?
 Does it make sense?  
 Is it clear?  
 Are you following me?  
-  
-## Эмоции  
-Ouch - ай  
-Yikes - тссс (когда ударился)  
-Oops - ой  
-Wow - ого  
-Come on - да ладно  
-Shit - блин
-  
-## Выражения с добавкой  
-Help out - выручать
-
-## Типичные слова
-Sparkling water - вода с газом  
-Still water - вода без газа
 
 ## На изучение
 to annoy - раздражать
