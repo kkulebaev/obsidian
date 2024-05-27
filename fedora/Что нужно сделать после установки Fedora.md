@@ -1,6 +1,6 @@
--  Включить репозиторий [[fedora/FlutHub]]
+-  Включить репозиторий [FlutHub](FlutHub.md)
     
--  [[fedora/Git credentials]]
+-  [Git credentials](Git%20credentials.md)
     
 -  [[fedora/SSH Keys]]
     

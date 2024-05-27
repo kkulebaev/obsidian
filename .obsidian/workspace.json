@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fedora/Installation Obsidian from Flatpack.md",
+                "file": "fedora/Что нужно сделать после установки Fedora.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fedora/Installation Obsidian from Flatpack.md",
+                "file": "fedora/Что нужно сделать после установки Fedora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fedora/Installation Obsidian from Flatpack.md",
+                "file": "fedora/Что нужно сделать после установки Fedora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fedora/Installation Obsidian from Flatpack.md"
+                "file": "fedora/Что нужно сделать после установки Fedora.md"
               }
             }
           }
@@ -167,8 +167,8 @@
   },
   "active": "3f6a4eb4feb3e4a4",
   "lastOpenFiles": [
-    "fedora/Gnome Extensions.md",
     "fedora/Installation Obsidian from Flatpack.md",
+    "fedora/Gnome Extensions.md",
     "assets/masonry_template.jpeg",
     "assets/obsidian_cover.png",
     "README.md",
