@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Package managers.md",
+                "file": "Linux/Installation Obsidian from Flatpak.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,9 +47,23 @@
             "id": "19745f47a2554317",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Files/Obsidian Welcome Screen.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55f47f77b8b1228f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Installation Obsidian from Flatpak.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Obsidian Welcome Screen.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Obsidian Welcome Screen.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Obsidian Welcome Screen.png"
+                "file": "README.md"
               }
             }
           }
@@ -189,6 +203,10 @@
   },
   "active": "19745f47a2554317",
   "lastOpenFiles": [
+    "Linux/Installation Obsidian from Flatpak.md",
+    "README.md",
+    "Linux/Package managers.md",
+    "Files/Obsidian Welcome Screen.png",
     "Files/npm.png",
     "Files/Masonry.jpeg",
     "Files/Lock Keys Settings.png",
@@ -197,16 +215,13 @@
     "Files/RescueTime.png",
     "Files/Pasted image 20230116011137.png",
     "Files/Pasted image 20230519161834.png",
-    "README.md.md",
     "Files/obsidian-cover.png",
     "Records.md",
     "Linux/Внешний вид.md",
     "NVM Commands.md",
     "NPM Command.md",
     "Git Commands.md",
-    "Files/Obsidian Welcome Screen.png",
     "English words.md",
-    "Linux/Package managers.md",
     "WSL Commands.md",
     "Docker/Работа с postgres.md",
     "Docker/Основные команды.md",
