@@ -23,11 +23,9 @@
             "id": "3f6a4eb4feb3e4a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "frontend/RescueTime.md",
-                "mode": "source",
-                "source": false
+                "file": "files/masonry_template.jpeg"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontend/RescueTime.md",
+                "file": "files/masonry_template.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontend/RescueTime.md",
+                "file": "files/masonry_template.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontend/RescueTime.md"
+                "file": "files/masonry_template.jpeg"
               }
             }
           }
@@ -165,8 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f6a4eb4feb3e4a4",
+  "active": "970fe9be292eb51c",
   "lastOpenFiles": [
+    "files/obsidian_cover.png",
+    "README.md",
+    "frontend/RescueTime.md",
     "frontend/Render Diffs app in a Web Worker.md",
     "frontend/Forking, Modifying, and Publishing NPM Packages.md",
     "frontend/Libs/Masonry.md",
@@ -180,13 +181,11 @@
     "files/rescue_time.png",
     "files/gnome_tweaks_settings.png",
     "linux/Внешний вид.md",
-    "files/obsidian-cover.png",
     "files/obsidian_welcome_screen.png",
     "files/mona_sans.png",
-    "files/masonry.jpeg",
+    "files/masonry_template.jpeg",
     "files/lock_keys_settings.png",
     "linux/Installation Obsidian from Flatpack.md",
-    "README.md",
     "NVM Commands.md",
     "English words.md",
     "linux/Package managers.md",
@@ -201,8 +200,6 @@
     "verses/Верь в себя.md",
     "verses/Content.md",
     "verses/2015.md",
-    "frontend/RescueTime.md",
-    "TODO List.md",
     "WSL"
   ]
 }

@@ -1,6 +1,6 @@
 # 📖Obsidian Knowledge Base🔎
 
-![Obsidian Cover](files/obsidian-cover.png)
+![Obsidian Cover](files/obsidian_cover.png)
 
 ## What is Obsidian
 [Obsidian](https://obsidian.md/) is both a Markdown editor and a knowledge base app.
