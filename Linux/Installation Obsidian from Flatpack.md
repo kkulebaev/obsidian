@@ -9,4 +9,4 @@ git clone git@github.com:kkulebaev/obsidian.git ~/obsidian
 ```
 
 При открытии Obsidian выбираем пункт меню `Open folder as vault`, а затем указываем путь до директории клонированной из GitHub
-![[Obsidian Welcome Screen.png]]
+![Obsidian Welcome Screen](../Files/Obsidian%20Welcome%20Screen.png)

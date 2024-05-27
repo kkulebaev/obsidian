@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Installation Obsidian from Flatpack.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Installation Obsidian from Flatpack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Installation Obsidian from Flatpack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linux/Installation Obsidian from Flatpack.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "b7fdd212317609b4",
   "lastOpenFiles": [
-    "Linux/Installation Obsidian from Flatpack.md",
     "README.md",
+    "Linux/Installation Obsidian from Flatpack.md",
     "Files/obsidian-cover.png",
     "NVM Commands.md",
     "English words.md",
