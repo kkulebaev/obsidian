@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Installation Obsidian from Flatpack.md",
+                "file": "Docker/Работа с postgres.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Installation Obsidian from Flatpack.md",
+                "file": "Docker/Работа с postgres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Installation Obsidian from Flatpack.md",
+                "file": "Docker/Работа с postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Installation Obsidian from Flatpack.md"
+                "file": "Docker/Работа с postgres.md"
               }
             }
           }
@@ -166,35 +166,35 @@
   },
   "active": "b7fdd212317609b4",
   "lastOpenFiles": [
-    "README.md",
-    "Linux/Installation Obsidian from Flatpack.md",
+    "Docker/Основные команды.md",
+    "Frontend/Render Diffs app in a Web Worker.md",
+    "Files/web_worker_render.png",
+    "Files/rescue_time.png",
+    "Files/gnome_tweaks_settings.png",
+    "Linux/Внешний вид.md",
     "Files/obsidian-cover.png",
+    "Files/obsidian_welcome_screen.png",
+    "Files/mona_sans.png",
+    "Files/masonry.jpeg",
+    "Files/lock_keys_settings.png",
+    "Linux/Installation Obsidian from Flatpack.md",
+    "README.md",
     "NVM Commands.md",
     "English words.md",
     "Linux/Package managers.md",
-    "Files/Obsidian Welcome Screen.png",
     "Files/npm.png",
-    "Files/Masonry.jpeg",
-    "Files/Lock Keys Settings.png",
-    "Files/Web worker render.png",
-    "Files/Sync Settings Brave.png",
-    "Files/RescueTime.png",
-    "Files/Pasted image 20230116011137.png",
-    "Files/Pasted image 20230519161834.png",
+    "Files/sync_brave_settings.png",
     "Records.md",
-    "Linux/Внешний вид.md",
     "NPM Command.md",
     "Git Commands.md",
     "WSL Commands.md",
     "Docker/Работа с postgres.md",
-    "Docker/Основные команды.md",
     "Verses/Для чего нужна жена.md",
     "Фильмы.md",
     "Verses/Верь в себя.md",
     "Verses/Content.md",
     "Verses/2015.md",
     "Frontend/RescueTime.md",
-    "Frontend/Render Diffs app in a Web Worker.md",
     "Frontend/Forking, Modifying, and Publishing NPM Packages.md",
     "TODO List.md",
     "Finance.md",

@@ -1,3 +1,3 @@
 Программа для трекинга активности за ПК
-![[RescueTime.png]]
+![[../Files/rescue_time.png]]
 https://www.rescuetime.com/
