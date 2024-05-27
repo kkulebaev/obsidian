@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dccd051784539f9c",
+            "id": "b7fdd212317609b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b7fdd212317609b4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -172,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dccd051784539f9c",
+  "active": "b7fdd212317609b4",
   "lastOpenFiles": [
     "Linux/Installation Obsidian from Flatpack.md",
     "README.md",
