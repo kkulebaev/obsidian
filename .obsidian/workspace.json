@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Работа с postgres.md",
+                "file": "Linux/Что нужно сделать после установки Fedora.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "55f47f77b8b1228f",
+            "id": "3f6a4eb4feb3e4a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Installation Obsidian from Flatpack.md",
+                "file": "Linux/Brave.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Работа с postgres.md",
+                "file": "Linux/Brave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Работа с postgres.md",
+                "file": "Linux/Brave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Работа с postgres.md"
+                "file": "Linux/Brave.md"
               }
             }
           }
@@ -164,8 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7fdd212317609b4",
+  "active": "3f6a4eb4feb3e4a4",
   "lastOpenFiles": [
+    "Linux/Что нужно сделать после установки Fedora.md",
+    "Docker/Работа с postgres.md",
+    "Docker/Untitled.md",
     "Docker/Основные команды.md",
     "Frontend/Render Diffs app in a Web Worker.md",
     "Files/web_worker_render.png",
@@ -188,7 +193,6 @@
     "NPM Command.md",
     "Git Commands.md",
     "WSL Commands.md",
-    "Docker/Работа с postgres.md",
     "Verses/Для чего нужна жена.md",
     "Фильмы.md",
     "Verses/Верь в себя.md",
@@ -200,7 +204,6 @@
     "Finance.md",
     "Linux/Aliases.md",
     "WSL",
-    "Linux/zsh + oh-my-zsh.md",
-    "Linux/Git credentials.md"
+    "Linux/zsh + oh-my-zsh.md"
   ]
 }
