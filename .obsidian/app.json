@@ -4,7 +4,7 @@
   "useTab": false,
   "newFileLocation": "current",
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "Files",
+  "attachmentFolderPath": "assets",
   "useMarkdownLinks": true,
   "newLinkFormat": "absolute"
 }
