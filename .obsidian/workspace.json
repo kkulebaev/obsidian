@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Что нужно сделать после установки Fedora.md",
+                "file": "verses/Content.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Records.md",
+                "file": "linux/git_credentials.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Records.md",
+                "file": "verses/Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Records.md",
+                "file": "verses/Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Records.md"
+                "file": "verses/Content.md"
               }
             }
           }
@@ -165,39 +164,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f6a4eb4feb3e4a4",
+  "active": "b7fdd212317609b4",
   "lastOpenFiles": [
+    "docker/docker_postgres.md",
+    "docker/docker_commands.md",
+    "linux/fedora_setup_guide.md",
+    "assets/vpn_setup_wire_guard.pdf",
+    "assets/vpn_setup_wire_guard.pdf.crdownload",
+    "linux/flatpak_apps.md",
+    "linux/git_credentials.md",
+    "linux/install_font_mono_lisa.md",
+    "linux/change_lang_alt_plus_shift.md",
+    "linux/appearance.md",
+    "linux/console_aliases.md",
+    "linux/brave_browser.md",
+    "linux/console_utils.md",
+    "linux/cisco_any_connect.md",
+    "linux/installation_obsidian_from_flatpak.md",
     "README.md",
-    "English words.md",
-    "Фильмы.md",
-    "develop/wsl_commands.md",
-    "develop/rescue_time.md",
-    "develop/render_diffs_app_in_a_web_worker.md",
-    "develop/nvm_commands.md",
-    "develop/npm_commands.md",
-    "develop/forking_modifying_and_publishing_npm_packages.md",
+    "linux/package_managers.md",
+    "linux/gnome_extensions.md",
+    "linux/flut_hub.md",
+    "linux/zsh_and_oh_my_zsh.md",
+    "linux/ssh_keys.md",
+    "linux/remote_server_and_vpn.md",
+    "linux/programming_languages.md",
+    "english_words.md",
+    "my_records.md",
+    "movies.md",
     "develop/git_commands.md",
-    "develop/libs/masonry_template.md",
-    "develop/fonts/mona_sans.md",
-    "docker/Работа с postgres.md",
-    "docker/Основные команды.md",
-    "linux/zsh + oh-my-zsh.md",
-    "linux/SSH Keys.md",
-    "linux/Remote server + VPN.md",
-    "linux/Programming languages.md",
-    "linux/Package managers.md",
-    "linux/Installation Obsidian from Flatpack.md",
-    "linux/Gnome Extensions.md",
-    "linux/Git credentials.md",
-    "linux/FlutHub.md",
-    "linux/Flatpak apps.md",
-    "linux/Console utils.md",
-    "linux/Cisco AnyConnect.md",
+    "assets/gnome_tweaks_settings.png",
+    "develop/wsl_commands.md",
     "assets/masonry_template.jpeg",
     "assets/obsidian_cover.png",
     "assets/web_worker_render.png",
     "assets/rescue_time.png",
-    "assets/gnome_tweaks_settings.png",
     "assets/obsidian_welcome_screen.png",
     "assets/mona_sans.png",
     "assets/lock_keys_settings.png",
