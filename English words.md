@@ -23,7 +23,8 @@ Still water - вода без газа
 ## На изучение
 to annoy - раздражать
 annoying - раздражающий
-to affraid - бояться 
+to affraid - бояться
+to swear - ругаться
 fall out with - поссориться с
 confident - уверенный
 patient - терпеливый
