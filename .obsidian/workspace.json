@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "e9997bf6ea4dc3de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3f6a4eb4feb3e4a4",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my_records.md",
+                "file": "tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my_records.md",
+                "file": "tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my_records.md"
+                "file": "tasks.md"
               }
             }
           }
@@ -187,8 +199,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cb1a0f056805b7a",
+  "active": "e9997bf6ea4dc3de",
   "lastOpenFiles": [
+    "tasks.md",
     "questions.md",
     "my_records.md",
     "english_words.md",
@@ -216,7 +229,6 @@
     "linux/ssh_keys.md",
     "linux/remote_server_and_vpn.md",
     "linux/programming_languages.md",
-    "movies.md",
     "assets/gnome_tweaks_settings.png",
     "assets/masonry_template.jpeg",
     "assets/obsidian_cover.png",
