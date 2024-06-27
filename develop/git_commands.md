@@ -12,3 +12,13 @@ git remote rm origin
 ```sh
 git remote add origin [URL]
 ```
+
+Создать тэг
+```sh
+git tag [tag_name] [branch]
+```
+
+Запушить тэг в репозиторий
+```sh
+git push origin tag [tag_name]
+```
