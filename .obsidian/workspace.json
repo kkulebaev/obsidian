@@ -54,6 +54,16 @@
             }
           },
           {
+            "id": "351a986f2425eefc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "3f6a4eb4feb3e4a4",
             "type": "leaf",
             "state": {
@@ -66,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,7 +209,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9997bf6ea4dc3de",
+  "active": "351a986f2425eefc",
   "lastOpenFiles": [
     "tasks.md",
     "questions.md",
