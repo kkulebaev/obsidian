@@ -57,9 +57,11 @@
             "id": "351a986f2425eefc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "develop/libs/localization_management.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -150,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/git_commands.md",
+                "file": "develop/libs/localization_management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/git_commands.md",
+                "file": "develop/libs/localization_management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/git_commands.md"
+                "file": "develop/libs/localization_management.md"
               }
             }
           }
@@ -211,6 +213,8 @@
   },
   "active": "351a986f2425eefc",
   "lastOpenFiles": [
+    "develop/libs/masonry_template.md",
+    "develop/libs/localization_management.md",
     "tasks.md",
     "questions.md",
     "my_records.md",
@@ -237,8 +241,6 @@
     "linux/flut_hub.md",
     "linux/zsh_and_oh_my_zsh.md",
     "linux/ssh_keys.md",
-    "linux/remote_server_and_vpn.md",
-    "linux/programming_languages.md",
     "assets/gnome_tweaks_settings.png",
     "assets/masonry_template.jpeg",
     "assets/obsidian_cover.png",
