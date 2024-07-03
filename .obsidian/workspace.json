@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/concerns.md",
+                "file": "develop/libs/localization_management.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/concerns.md",
+                "file": "develop/libs/localization_management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/concerns.md",
+                "file": "develop/libs/localization_management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/concerns.md"
+                "file": "develop/libs/localization_management.md"
               }
             }
           }
@@ -225,8 +225,8 @@
   },
   "active": "fba37175ba23ee3d",
   "lastOpenFiles": [
-    "develop/libs/localization_management.md",
     "develop/concerns.md",
+    "develop/libs/localization_management.md",
     "develop/libs/masonry_template.md",
     "tasks.md",
     "questions.md",
