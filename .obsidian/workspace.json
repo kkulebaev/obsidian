@@ -66,6 +66,18 @@
             }
           },
           {
+            "id": "fba37175ba23ee3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "develop/concerns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3f6a4eb4feb3e4a4",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/libs/localization_management.md",
+                "file": "develop/concerns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/libs/localization_management.md",
+                "file": "develop/concerns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/libs/localization_management.md"
+                "file": "develop/concerns.md"
               }
             }
           }
@@ -211,10 +223,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "351a986f2425eefc",
+  "active": "fba37175ba23ee3d",
   "lastOpenFiles": [
-    "develop/libs/masonry_template.md",
     "develop/libs/localization_management.md",
+    "develop/concerns.md",
+    "develop/libs/masonry_template.md",
     "tasks.md",
     "questions.md",
     "my_records.md",
@@ -240,7 +253,6 @@
     "linux/gnome_extensions.md",
     "linux/flut_hub.md",
     "linux/zsh_and_oh_my_zsh.md",
-    "linux/ssh_keys.md",
     "assets/gnome_tweaks_settings.png",
     "assets/masonry_template.jpeg",
     "assets/obsidian_cover.png",
