@@ -4,93 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fcc92b50faeb5f85",
+        "id": "dbad170a9ec767af",
         "type": "tabs",
         "children": [
           {
-            "id": "b7fdd212317609b4",
+            "id": "1c41f2f1ca2c8a30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english_words.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d24c6c6a7785fae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my_records.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cb1a0f056805b7a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "e9997bf6ea4dc3de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/git_commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "351a986f2425eefc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/libs/localization_management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fba37175ba23ee3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/libs/localization_management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f6a4eb4feb3e4a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/git_credentials.md",
+                "file": "docker/docker_commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/libs/localization_management.md",
+                "file": "docker/docker_commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/libs/localization_management.md",
+                "file": "docker/docker_commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/libs/localization_management.md"
+                "file": "docker/docker_commands.md"
               }
             }
           }
@@ -223,15 +152,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fba37175ba23ee3d",
+  "active": "1c41f2f1ca2c8a30",
   "lastOpenFiles": [
-    "develop/concerns.md",
+    "linux/git_credentials.md",
+    "english_words.md",
+    "my_records.md",
+    "develop/git_commands.md",
     "develop/libs/localization_management.md",
+    "develop/concerns.md",
     "develop/libs/masonry_template.md",
     "tasks.md",
     "questions.md",
-    "my_records.md",
-    "english_words.md",
     "verses/Content.md",
     "docker/docker_postgres.md",
     "docker/docker_commands.md",
@@ -239,7 +170,6 @@
     "assets/vpn_setup_wire_guard.pdf",
     "assets/vpn_setup_wire_guard.pdf.crdownload",
     "linux/flatpak_apps.md",
-    "linux/git_credentials.md",
     "linux/install_font_mono_lisa.md",
     "linux/change_lang_alt_plus_shift.md",
     "linux/appearance.md",
@@ -252,7 +182,6 @@
     "linux/package_managers.md",
     "linux/gnome_extensions.md",
     "linux/flut_hub.md",
-    "linux/zsh_and_oh_my_zsh.md",
     "assets/gnome_tweaks_settings.png",
     "assets/masonry_template.jpeg",
     "assets/obsidian_cover.png",
