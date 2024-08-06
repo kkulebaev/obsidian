@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/nvm_commands.md",
+                "file": "tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0bef2445e2efe08",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/nvm_commands.md",
+                "file": "tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/nvm_commands.md",
+                "file": "tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/nvm_commands.md"
+                "file": "tasks.md"
               }
             }
           }
@@ -152,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c41f2f1ca2c8a30",
+  "active": "b0bef2445e2efe08",
   "lastOpenFiles": [
+    "develop/nvm_commands.md",
     "docker/docker_commands.md",
     "linux/git_credentials.md",
     "english_words.md",
@@ -181,7 +193,6 @@
     "README.md",
     "linux/package_managers.md",
     "linux/gnome_extensions.md",
-    "linux/flut_hub.md",
     "assets/gnome_tweaks_settings.png",
     "assets/masonry_template.jpeg",
     "assets/obsidian_cover.png",
