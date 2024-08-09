@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks.md",
+                "file": "develop/nvm_commands.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b0bef2445e2efe08",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks.md",
+                "file": "develop/nvm_commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks.md",
+                "file": "develop/nvm_commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks.md"
+                "file": "develop/nvm_commands.md"
               }
             }
           }
@@ -163,8 +152,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0bef2445e2efe08",
+  "active": "1c41f2f1ca2c8a30",
   "lastOpenFiles": [
+    "tasks.md",
     "develop/nvm_commands.md",
     "docker/docker_commands.md",
     "linux/git_credentials.md",
@@ -174,7 +164,6 @@
     "develop/libs/localization_management.md",
     "develop/concerns.md",
     "develop/libs/masonry_template.md",
-    "tasks.md",
     "questions.md",
     "verses/Content.md",
     "docker/docker_postgres.md",
