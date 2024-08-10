@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "534efee8f51e86a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "develop/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/nvm_commands.md",
+                "file": "develop/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/nvm_commands.md",
+                "file": "develop/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/nvm_commands.md"
+                "file": "develop/Untitled.md"
               }
             }
           }
@@ -152,10 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c41f2f1ca2c8a30",
+  "active": "534efee8f51e86a6",
   "lastOpenFiles": [
-    "tasks.md",
     "develop/nvm_commands.md",
+    "develop/Untitled.md",
+    "tasks.md",
     "docker/docker_commands.md",
     "linux/git_credentials.md",
     "english_words.md",
@@ -181,7 +195,6 @@
     "linux/installation_obsidian_from_flatpak.md",
     "README.md",
     "linux/package_managers.md",
-    "linux/gnome_extensions.md",
     "assets/gnome_tweaks_settings.png",
     "assets/masonry_template.jpeg",
     "assets/obsidian_cover.png",
