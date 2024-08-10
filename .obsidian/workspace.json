@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "534efee8f51e86a6",
+            "id": "1ee3494e6a227bcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/Untitled.md",
+                "file": "WiFi setup guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/Untitled.md",
+                "file": "WiFi setup guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/Untitled.md",
+                "file": "WiFi setup guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/Untitled.md"
+                "file": "WiFi setup guide.md"
               }
             }
           }
@@ -165,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "534efee8f51e86a6",
+  "active": "1ee3494e6a227bcc",
   "lastOpenFiles": [
+    "WiFi setup guide.md",
     "develop/nvm_commands.md",
-    "develop/Untitled.md",
     "tasks.md",
     "docker/docker_commands.md",
     "linux/git_credentials.md",
