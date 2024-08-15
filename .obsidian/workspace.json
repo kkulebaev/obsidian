@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
+                "file": "linux/zsh_and_oh_my_zsh.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
+                "file": "linux/zsh_and_oh_my_zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
+                "file": "linux/zsh_and_oh_my_zsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/fedora_setup_guide.md"
+                "file": "linux/zsh_and_oh_my_zsh.md"
               }
             }
           }
@@ -167,8 +167,11 @@
   },
   "active": "1ee3494e6a227bcc",
   "lastOpenFiles": [
-    "linux/console_utils.md",
     "linux/fedora_setup_guide.md",
+    "linux/brave_browser.md",
+    "assets/Pasted image 20240815230913.png",
+    "assets/Pasted image 20240815230724.png",
+    "linux/console_utils.md",
     "WiFi setup guide.md",
     "develop/nvm_commands.md",
     "tasks.md",
@@ -190,11 +193,9 @@
     "linux/change_lang_alt_plus_shift.md",
     "linux/appearance.md",
     "linux/console_aliases.md",
-    "linux/brave_browser.md",
     "linux/cisco_any_connect.md",
     "linux/installation_obsidian_from_flatpak.md",
     "README.md",
-    "linux/package_managers.md",
     "assets/gnome_tweaks_settings.png",
     "assets/masonry_template.jpeg",
     "assets/obsidian_cover.png",
@@ -203,8 +204,6 @@
     "assets/obsidian_welcome_screen.png",
     "assets/mona_sans.png",
     "assets/lock_keys_settings.png",
-    "assets/npm.png",
-    "assets/sync_brave_settings.png",
     "WSL"
   ]
 }

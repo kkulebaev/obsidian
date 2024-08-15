@@ -17,3 +17,7 @@ sudo dnf install brave-browser
 
 Выполнить синхронизацию настроек браузера Brave
 ![[assets/sync_brave_settings.png]]
+После введения кода синхронизации необходимо выбрать параметр "Синхронизировать все"
+![](../assets/Pasted%20image%2020240815230724.png)
+Выставить Brave браузером по умолчанию
+![](../assets/Pasted%20image%2020240815230913.png)
