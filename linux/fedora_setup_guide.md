@@ -12,7 +12,7 @@
     
 -  [console_utils](console_utils.md)
     
--  [установить Snapper для снэпшотов системы](https://davejansen.com/fedora-root-snapshot-support/](https://davejansen.com/fedora-root-snapshot-support/)
+-  [установить Snapper для снэпшотов системы](http://web.archive.org/web/20240807030416/https://www.davejansen.com/fedora-root-snapshot-support/)
     
 -  [brave_browser](brave_browser.md)
     

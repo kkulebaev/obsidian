@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi setup guide.md",
+                "file": "linux/fedora_setup_guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi setup guide.md",
+                "file": "linux/fedora_setup_guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi setup guide.md",
+                "file": "linux/fedora_setup_guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi setup guide.md"
+                "file": "linux/fedora_setup_guide.md"
               }
             }
           }
@@ -167,6 +167,8 @@
   },
   "active": "1ee3494e6a227bcc",
   "lastOpenFiles": [
+    "linux/console_utils.md",
+    "linux/fedora_setup_guide.md",
     "WiFi setup guide.md",
     "develop/nvm_commands.md",
     "tasks.md",
@@ -181,7 +183,6 @@
     "questions.md",
     "verses/Content.md",
     "docker/docker_postgres.md",
-    "linux/fedora_setup_guide.md",
     "assets/vpn_setup_wire_guard.pdf",
     "assets/vpn_setup_wire_guard.pdf.crdownload",
     "linux/flatpak_apps.md",
@@ -190,7 +191,6 @@
     "linux/appearance.md",
     "linux/console_aliases.md",
     "linux/brave_browser.md",
-    "linux/console_utils.md",
     "linux/cisco_any_connect.md",
     "linux/installation_obsidian_from_flatpak.md",
     "README.md",
