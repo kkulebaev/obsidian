@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dbad170a9ec767af",
+        "id": "7f52e6d88e06c666",
         "type": "tabs",
         "children": [
           {
-            "id": "1c41f2f1ca2c8a30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/nvm_commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ee3494e6a227bcc",
+            "id": "b5539673511be654",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6a0c2004301967d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/package_managers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1485eecf2e32b545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/package_managers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a575bd2abdfa3517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/programming_languages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/package_managers.md",
+                "file": "linux/fedora_setup_guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/package_managers.md",
+                "file": "linux/fedora_setup_guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/package_managers.md"
+                "file": "linux/fedora_setup_guide.md"
               }
             }
           }
@@ -201,13 +152,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a0c2004301967d3",
+  "active": "b5539673511be654",
   "lastOpenFiles": [
+    "linux/change_lang_alt_plus_shift.md",
     "linux/fedora_setup_guide.md",
-    "linux/package_managers.md",
+    "linux/flatpak_apps.md",
     "linux/programming_languages.md",
     "linux/appearance.md",
     "linux/gnome_extensions.md",
+    "linux/console_utils.md",
+    "linux/package_managers.md",
     "develop/nvm_commands.md",
     "linux/install_font_mono_lisa.md",
     "assets/Pasted image 20240815232103.png",
@@ -216,7 +170,6 @@
     "linux/brave_browser.md",
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
-    "linux/console_utils.md",
     "WiFi setup guide.md",
     "tasks.md",
     "docker/docker_commands.md",
@@ -232,8 +185,6 @@
     "docker/docker_postgres.md",
     "assets/vpn_setup_wire_guard.pdf",
     "assets/vpn_setup_wire_guard.pdf.crdownload",
-    "linux/flatpak_apps.md",
-    "linux/change_lang_alt_plus_shift.md",
     "assets/gnome_tweaks_settings.png",
     "assets/masonry_template.jpeg",
     "assets/obsidian_cover.png",
