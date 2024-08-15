@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/install_font_mono_lisa.md",
+                "file": "linux/fedora_setup_guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a0c2004301967d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/fedora_setup_guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a575bd2abdfa3517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/programming_languages.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/install_font_mono_lisa.md",
+                "file": "linux/programming_languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/install_font_mono_lisa.md",
+                "file": "linux/programming_languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/install_font_mono_lisa.md"
+                "file": "linux/programming_languages.md"
               }
             }
           }
@@ -165,11 +189,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ee3494e6a227bcc",
+  "active": "a575bd2abdfa3517",
   "lastOpenFiles": [
-    "linux/gnome_extensions.md",
     "linux/fedora_setup_guide.md",
     "linux/appearance.md",
+    "linux/gnome_extensions.md",
+    "develop/nvm_commands.md",
+    "linux/install_font_mono_lisa.md",
     "assets/Pasted image 20240815232103.png",
     "linux/console_aliases.md",
     "linux/zsh_and_oh_my_zsh.md",
@@ -178,7 +204,6 @@
     "assets/Pasted image 20240815230724.png",
     "linux/console_utils.md",
     "WiFi setup guide.md",
-    "develop/nvm_commands.md",
     "tasks.md",
     "docker/docker_commands.md",
     "linux/git_credentials.md",
@@ -194,7 +219,6 @@
     "assets/vpn_setup_wire_guard.pdf",
     "assets/vpn_setup_wire_guard.pdf.crdownload",
     "linux/flatpak_apps.md",
-    "linux/install_font_mono_lisa.md",
     "linux/change_lang_alt_plus_shift.md",
     "linux/cisco_any_connect.md",
     "linux/installation_obsidian_from_flatpak.md",

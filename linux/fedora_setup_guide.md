@@ -22,7 +22,7 @@
     
 - [install_font_mono_lisa](install_font_mono_lisa.md)
     
--  установить [gnome_extensions](gnome_extensions.md)
+- [gnome_extensions](gnome_extensions.md)
      
 - [appearance](appearance.md)
     
