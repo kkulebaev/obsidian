@@ -20,6 +20,8 @@
     
 -  [console_aliases](console_aliases.md)
     
+- [install_font_mono_lisa](install_font_mono_lisa.md)
+    
 -  установить [gnome_extensions](gnome_extensions.md)
      
 - [appearance](appearance.md)
@@ -31,8 +33,6 @@
 -  [VSCode](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
       
 - [WebStorm](https://www.jetbrains.com/help/webstorm/installation-guide.html#toolbox)
-     
-- [install_font_mono_lisa](install_font_mono_lisa.md)
      
 - [Docker]([https://docs.docker.com/engine/install/fedora/)
     
