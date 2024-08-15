@@ -1,3 +1,7 @@
+Зайти в конфиг
+```sh
+nano ~/.zshrc
+```
 ## Common
 alias cp='cp -r'
 alias scp='scp -r'

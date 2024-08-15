@@ -3,6 +3,8 @@
 flatpak install flathub com.mattjakeman.ExtensionManager
 ```
 
+Зайти в приложение `менеджер расширений` и поочередно скачать следующие расширения
+![](../assets/Pasted%20image%2020240815232103.png)
 ## Vitals
 Vitals@CoreCoding.com
 
