@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
+                "file": "linux/package_managers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1485eecf2e32b545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/package_managers.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/programming_languages.md",
+                "file": "linux/package_managers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/programming_languages.md",
+                "file": "linux/package_managers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/programming_languages.md"
+                "file": "linux/package_managers.md"
               }
             }
           }
@@ -189,9 +201,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a575bd2abdfa3517",
+  "active": "6a0c2004301967d3",
   "lastOpenFiles": [
     "linux/fedora_setup_guide.md",
+    "linux/package_managers.md",
+    "linux/programming_languages.md",
     "linux/appearance.md",
     "linux/gnome_extensions.md",
     "develop/nvm_commands.md",
@@ -220,8 +234,6 @@
     "assets/vpn_setup_wire_guard.pdf.crdownload",
     "linux/flatpak_apps.md",
     "linux/change_lang_alt_plus_shift.md",
-    "linux/cisco_any_connect.md",
-    "linux/installation_obsidian_from_flatpak.md",
     "assets/gnome_tweaks_settings.png",
     "assets/masonry_template.jpeg",
     "assets/obsidian_cover.png",
