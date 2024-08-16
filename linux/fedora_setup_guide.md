@@ -26,11 +26,11 @@
      
 - [appearance](appearance.md)
     
-- [programming_languages](programming_languages.md) -
+- [programming_languages](programming_languages.md)
     
 - [package_managers](package_managers.md)
     
-- [VSCode](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions) -
+- [VSCode](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
       
 - [WebStorm](https://www.jetbrains.com/help/webstorm/installation-guide.html#toolbox)
      
@@ -44,7 +44,7 @@
     
 - [установить Mattermost](https://docs.mattermost.com/collaborate/install-desktop-app.html#install-and-update-the-mattermost-desktop-app)
     
-- настроить WireGuard (VPN) (-)
+- настроить WireGuard (VPN)
     [Быстрый личный VPN через Wireguard](../assets/vpn_setup_wire_guard.pdf)
     [WireGuard VPN на VPS с Ubuntu 20.04: Своими ручками легко, быстро и весело](https://habr.com/ru/sandbox/189100/)
     [WireGuard — прекрасный VPN будущего?](https://habr.com/ru/post/432686/)

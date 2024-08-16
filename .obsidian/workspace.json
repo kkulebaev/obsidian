@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/programming_languages.md",
+                "file": "linux/fedora_setup_guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dbc115a93acbbfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/appearance.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/programming_languages.md",
+                "file": "linux/fedora_setup_guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/programming_languages.md",
+                "file": "linux/fedora_setup_guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/programming_languages.md"
+                "file": "linux/fedora_setup_guide.md"
               }
             }
           }
@@ -166,14 +178,14 @@
   },
   "active": "b5539673511be654",
   "lastOpenFiles": [
+    "linux/appearance.md",
     "linux/fedora_setup_guide.md",
+    "linux/gnome_extensions.md",
+    "linux/programming_languages.md",
     "linux/openconnect.md",
     "assets/vpn_setup_wire_guard.pdf",
     "linux/change_lang_alt_plus_shift.md",
     "linux/flatpak_apps.md",
-    "linux/programming_languages.md",
-    "linux/appearance.md",
-    "linux/gnome_extensions.md",
     "linux/console_utils.md",
     "linux/package_managers.md",
     "develop/nvm_commands.md",

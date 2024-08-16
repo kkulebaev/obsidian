@@ -1,4 +1,4 @@
-## Go
+## Go (-)
 
 ```sh
 sudo dnf install golang
