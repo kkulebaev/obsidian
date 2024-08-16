@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
+                "file": "linux/snapper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b46f054a1f26035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/snapper.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
+                "file": "linux/snapper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
+                "file": "linux/snapper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/fedora_setup_guide.md"
+                "file": "linux/snapper.md"
               }
             }
           }
@@ -191,6 +203,8 @@
   },
   "active": "c29fc101ae381c23",
   "lastOpenFiles": [
+    "linux/fedora_setup_guide.md",
+    "linux/snapper.md",
     "linux/appearance.md",
     "linux/zsh_and_oh_my_zsh.md",
     "develop/wsl_commands.md",
@@ -205,7 +219,6 @@
     "develop/WiFi setup guide.md",
     "README.md",
     "tasks.md",
-    "linux/fedora_setup_guide.md",
     "linux/gnome_extensions.md",
     "linux/console_utils.md",
     "linux/console_aliases.md",
@@ -220,7 +233,6 @@
     "linux/brave_browser.md",
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
-    "docker/docker_commands.md",
     "assets/vpn_setup_wire_guard.pdf.crdownload",
     "assets/gnome_tweaks_settings.png",
     "assets/masonry_template.jpeg",
