@@ -34,9 +34,9 @@
       
 - [WebStorm](https://www.jetbrains.com/help/webstorm/installation-guide.html#toolbox)
      
-- [Docker]([https://docs.docker.com/engine/install/fedora/) -
+- [Docker]([https://docs.docker.com/engine/install/fedora/)
     
-- [настроить докер](https://docs.docker.com/engine/install/linux-postinstall/), чтоб работал без команды `sudo`  -
+- [настроить докер](https://docs.docker.com/engine/install/linux-postinstall/), чтоб работал без команды `sudo` 
     
 - установить [flatpak_apps](flatpak_apps.md)
     
