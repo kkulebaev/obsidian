@@ -42,6 +42,8 @@
     
 - установить Cisco AnyСonnect (-)
     
+- [установить Mattermost](https://docs.mattermost.com/collaborate/install-desktop-app.html#install-and-update-the-mattermost-desktop-app)
+    
 - настроить WireGuard (VPN) (-)
     [Быстрый личный VPN через Wireguard](../assets/vpn_setup_wire_guard.pdf)
     [WireGuard VPN на VPS с Ubuntu 20.04: Своими ручками легко, быстро и весело](https://habr.com/ru/sandbox/189100/)
