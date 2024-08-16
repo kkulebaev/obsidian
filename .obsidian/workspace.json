@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
+                "file": "linux/programming_languages.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
+                "file": "linux/programming_languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
+                "file": "linux/programming_languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/fedora_setup_guide.md"
+                "file": "linux/programming_languages.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "b5539673511be654",
   "lastOpenFiles": [
-    "linux/openconnect.md",
     "linux/fedora_setup_guide.md",
+    "linux/openconnect.md",
     "assets/vpn_setup_wire_guard.pdf",
     "linux/change_lang_alt_plus_shift.md",
     "linux/flatpak_apps.md",
