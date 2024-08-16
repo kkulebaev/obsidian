@@ -40,7 +40,7 @@
     
 - установить [flatpak_apps](flatpak_apps.md)
     
-- установить Cisco AnyСonnect (-)
+- установить Cisco AnyСonnect или openconnect
     
 - [установить Mattermost](https://docs.mattermost.com/collaborate/install-desktop-app.html#install-and-update-the-mattermost-desktop-app)
     
