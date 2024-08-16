@@ -7,3 +7,8 @@ sudo dnf install openconnect
 ```sh
 sudo openconnect ra.interfax.ru
 ```
+
+Быстрая комманда со всеми флагами
+```sh
+sudo openconnect ra.interfax.ru --authgroup=Multifactor --user=ku.kulebaev
+```
