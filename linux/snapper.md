@@ -5,3 +5,7 @@
 sudo snapper ls
 ```
 
+Откатиться на снэпшот
+```sh
+sudo snapper --ambit classic rollback <ID>
+```
