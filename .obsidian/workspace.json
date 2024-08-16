@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c29fc101ae381c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi setup guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0dbc115a93acbbfd",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
+                "file": "WiFi setup guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
+                "file": "WiFi setup guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/fedora_setup_guide.md"
+                "file": "WiFi setup guide.md"
               }
             }
           }
@@ -176,14 +189,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5539673511be654",
+  "active": "c29fc101ae381c23",
   "lastOpenFiles": [
+    "README.md",
+    "tasks.md",
+    "WiFi setup guide.md",
     "linux/appearance.md",
     "linux/fedora_setup_guide.md",
+    "linux/gnome_extensions.md",
     "linux/console_utils.md",
     "linux/console_aliases.md",
     "linux/openconnect.md",
-    "linux/gnome_extensions.md",
     "linux/programming_languages.md",
     "assets/vpn_setup_wire_guard.pdf",
     "linux/change_lang_alt_plus_shift.md",
@@ -196,8 +212,6 @@
     "linux/brave_browser.md",
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
-    "WiFi setup guide.md",
-    "tasks.md",
     "docker/docker_commands.md",
     "linux/git_credentials.md",
     "english_words.md",
@@ -207,7 +221,6 @@
     "develop/concerns.md",
     "develop/libs/masonry_template.md",
     "questions.md",
-    "verses/Content.md",
     "assets/vpn_setup_wire_guard.pdf.crdownload",
     "assets/gnome_tweaks_settings.png",
     "assets/masonry_template.jpeg",

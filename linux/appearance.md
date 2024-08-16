@@ -7,3 +7,7 @@
 sudo dnf install gnome-tweaks
 ```
 - Окна - Центрировать новые окна -> Вкл
+3. Выводить секунды в часах
+```sh
+gsettings set org.gnome.desktop.interface clock-show-seconds true
+```
