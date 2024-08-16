@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi setup guide.md",
+                "file": "linux/zsh_and_oh_my_zsh.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi setup guide.md",
+                "file": "linux/zsh_and_oh_my_zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiFi setup guide.md",
+                "file": "linux/zsh_and_oh_my_zsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WiFi setup guide.md"
+                "file": "linux/zsh_and_oh_my_zsh.md"
               }
             }
           }
@@ -191,9 +191,18 @@
   },
   "active": "c29fc101ae381c23",
   "lastOpenFiles": [
+    "develop/wsl_commands.md",
+    "develop/rescue_time.md",
+    "develop/render_diffs_app_in_a_web_worker.md",
+    "develop/nvm_commands.md",
+    "develop/git_commands.md",
+    "develop/npm_commands.md",
+    "develop/forking_modifying_and_publishing_npm_packages.md",
+    "develop/concerns.md",
+    "linux/ssh_keys.md",
+    "develop/WiFi setup guide.md",
     "README.md",
     "tasks.md",
-    "WiFi setup guide.md",
     "linux/appearance.md",
     "linux/fedora_setup_guide.md",
     "linux/gnome_extensions.md",
@@ -205,7 +214,6 @@
     "linux/change_lang_alt_plus_shift.md",
     "linux/flatpak_apps.md",
     "linux/package_managers.md",
-    "develop/nvm_commands.md",
     "linux/install_font_mono_lisa.md",
     "assets/Pasted image 20240815232103.png",
     "linux/zsh_and_oh_my_zsh.md",
@@ -213,14 +221,6 @@
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
     "docker/docker_commands.md",
-    "linux/git_credentials.md",
-    "english_words.md",
-    "my_records.md",
-    "develop/git_commands.md",
-    "develop/libs/localization_management.md",
-    "develop/concerns.md",
-    "develop/libs/masonry_template.md",
-    "questions.md",
     "assets/vpn_setup_wire_guard.pdf.crdownload",
     "assets/gnome_tweaks_settings.png",
     "assets/masonry_template.jpeg",
