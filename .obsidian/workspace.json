@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/zsh_and_oh_my_zsh.md",
+                "file": "linux/fedora_setup_guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/zsh_and_oh_my_zsh.md",
+                "file": "linux/fedora_setup_guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/zsh_and_oh_my_zsh.md",
+                "file": "linux/fedora_setup_guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/zsh_and_oh_my_zsh.md"
+                "file": "linux/fedora_setup_guide.md"
               }
             }
           }
@@ -191,6 +191,8 @@
   },
   "active": "c29fc101ae381c23",
   "lastOpenFiles": [
+    "linux/appearance.md",
+    "linux/zsh_and_oh_my_zsh.md",
     "develop/wsl_commands.md",
     "develop/rescue_time.md",
     "develop/render_diffs_app_in_a_web_worker.md",
@@ -203,7 +205,6 @@
     "develop/WiFi setup guide.md",
     "README.md",
     "tasks.md",
-    "linux/appearance.md",
     "linux/fedora_setup_guide.md",
     "linux/gnome_extensions.md",
     "linux/console_utils.md",
@@ -216,7 +217,6 @@
     "linux/package_managers.md",
     "linux/install_font_mono_lisa.md",
     "assets/Pasted image 20240815232103.png",
-    "linux/zsh_and_oh_my_zsh.md",
     "linux/brave_browser.md",
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
