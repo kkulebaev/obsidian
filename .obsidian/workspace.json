@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/snapper.md",
+                "file": "linux/fedora_setup_guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/snapper.md",
+                "file": "linux/fedora_setup_guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/snapper.md",
+                "file": "linux/fedora_setup_guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/snapper.md"
+                "file": "linux/fedora_setup_guide.md"
               }
             }
           }
@@ -203,8 +203,8 @@
   },
   "active": "c29fc101ae381c23",
   "lastOpenFiles": [
-    "linux/fedora_setup_guide.md",
     "linux/snapper.md",
+    "linux/fedora_setup_guide.md",
     "linux/appearance.md",
     "linux/zsh_and_oh_my_zsh.md",
     "develop/wsl_commands.md",
