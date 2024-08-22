@@ -22,3 +22,11 @@ git tag [tag_name] [branch]
 ```sh
 git push origin tag [tag_name]
 ```
+
+```sh
+git config --local user.name "Konstantin Kulebaev"
+```
+
+```sh
+git config --local user.email "ku.kulebaev@interfax.ru" 
+```
