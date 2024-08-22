@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7f52e6d88e06c666",
+        "id": "61e733fbfc565cef",
         "type": "tabs",
         "children": [
           {
-            "id": "b5539673511be654",
+            "id": "c107015fa21a3d89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/fedora_setup_guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c29fc101ae381c23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/fedora_setup_guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b46f054a1f26035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/snapper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dbc115a93acbbfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/appearance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cc02c4f7f0dfff6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/openconnect.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "linux/fedora_setup_guide.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -201,11 +144,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c29fc101ae381c23",
+  "active": "c107015fa21a3d89",
   "lastOpenFiles": [
+    "linux/openconnect.md",
+    "linux/appearance.md",
     "linux/snapper.md",
     "linux/fedora_setup_guide.md",
-    "linux/appearance.md",
     "linux/zsh_and_oh_my_zsh.md",
     "develop/wsl_commands.md",
     "develop/rescue_time.md",
@@ -222,7 +166,6 @@
     "linux/gnome_extensions.md",
     "linux/console_utils.md",
     "linux/console_aliases.md",
-    "linux/openconnect.md",
     "linux/programming_languages.md",
     "assets/vpn_setup_wire_guard.pdf",
     "linux/change_lang_alt_plus_shift.md",

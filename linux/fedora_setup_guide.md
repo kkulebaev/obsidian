@@ -8,7 +8,9 @@
     
 - [fstab](https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../fstab)
     
-- [ускоряем DNF](https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../uskoryaem-dnf) 
+- [ускоряем DNF](https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../uskoryaem-dnf)
+    
+- [установка драйверов для Nvidia](https://plafon.gitbook.io/fedora-zero/fedora-zero/videokarta/nvidia/install_nvidia_drivers)
     
 - [console_utils](console_utils.md)
     
