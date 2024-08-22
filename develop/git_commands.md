@@ -23,10 +23,12 @@ git tag [tag_name] [branch]
 git push origin tag [tag_name]
 ```
 
+Изменить локальное имя пользователя git на проекте
 ```sh
 git config --local user.name "Konstantin Kulebaev"
 ```
 
+Изменить локальный email пользователя git на проекте
 ```sh
 git config --local user.email "ku.kulebaev@interfax.ru" 
 ```
