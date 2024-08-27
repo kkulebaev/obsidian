@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/git_commands.md",
+                "file": "linux/snapper.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/git_commands.md",
+                "file": "linux/snapper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/git_commands.md",
+                "file": "linux/snapper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/git_commands.md"
+                "file": "linux/snapper.md"
               }
             }
           }
@@ -154,6 +154,7 @@
   },
   "active": "c107015fa21a3d89",
   "lastOpenFiles": [
+    "develop/git_commands.md",
     "linux/openconnect.md",
     "linux/appearance.md",
     "linux/snapper.md",
@@ -163,7 +164,6 @@
     "develop/rescue_time.md",
     "develop/render_diffs_app_in_a_web_worker.md",
     "develop/nvm_commands.md",
-    "develop/git_commands.md",
     "develop/npm_commands.md",
     "develop/forking_modifying_and_publishing_npm_packages.md",
     "develop/concerns.md",
