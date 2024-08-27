@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/change_lang_alt_plus_shift.md",
+                "file": "tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/change_lang_alt_plus_shift.md",
+                "file": "tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/change_lang_alt_plus_shift.md",
+                "file": "tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/change_lang_alt_plus_shift.md"
+                "file": "tasks.md"
               }
             }
           }
@@ -154,6 +154,8 @@
   },
   "active": "c107015fa21a3d89",
   "lastOpenFiles": [
+    "develop/docker/docker_commands.md",
+    "linux/change_lang_alt_plus_shift.md",
     "linux/console_aliases.md",
     "linux/snapper.md",
     "develop/git_commands.md",
@@ -176,12 +178,10 @@
     "linux/console_utils.md",
     "linux/programming_languages.md",
     "assets/vpn_setup_wire_guard.pdf",
-    "linux/change_lang_alt_plus_shift.md",
     "linux/flatpak_apps.md",
     "linux/package_managers.md",
     "linux/install_font_mono_lisa.md",
     "assets/Pasted image 20240815232103.png",
-    "linux/brave_browser.md",
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
     "assets/vpn_setup_wire_guard.pdf.crdownload",

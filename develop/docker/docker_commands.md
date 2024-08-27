@@ -64,7 +64,21 @@ docker container prune
 ```
 
 Посмотреть список файлов в директории /app в контейнере по имени
-
 ```bash
 docker exec -i -t [CONTAINER_NAME] ls -alF /app
+```
+
+Остановить все контейнеры
+```sh
+docker stop $(docker ps -a -q)
+```
+
+Удалить все контейнеры
+```sh
+docker rm $(docker ps -a -q)
+```
+
+Удалить все образы
+```sh
+docker rmi -f $(docker images -aq)
 ```
