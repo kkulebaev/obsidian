@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks.md",
+                "file": "develop/git_commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks.md",
+                "file": "develop/git_commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks.md",
+                "file": "develop/git_commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks.md"
+                "file": "develop/git_commands.md"
               }
             }
           }
@@ -154,6 +154,8 @@
   },
   "active": "c107015fa21a3d89",
   "lastOpenFiles": [
+    "tasks.md",
+    "git.md",
     "develop/docker/docker_commands.md",
     "linux/change_lang_alt_plus_shift.md",
     "linux/console_aliases.md",
@@ -173,14 +175,12 @@
     "linux/ssh_keys.md",
     "develop/WiFi setup guide.md",
     "README.md",
-    "tasks.md",
     "linux/gnome_extensions.md",
     "linux/console_utils.md",
     "linux/programming_languages.md",
     "assets/vpn_setup_wire_guard.pdf",
     "linux/flatpak_apps.md",
     "linux/package_managers.md",
-    "linux/install_font_mono_lisa.md",
     "assets/Pasted image 20240815232103.png",
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
