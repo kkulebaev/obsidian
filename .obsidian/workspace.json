@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/docker/docker_commands.md",
+                "file": "develop/git_commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/docker/docker_commands.md",
+                "file": "develop/git_commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/docker/docker_commands.md",
+                "file": "develop/git_commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/docker/docker_commands.md"
+                "file": "develop/git_commands.md"
               }
             }
           }
@@ -154,10 +154,11 @@
   },
   "active": "c107015fa21a3d89",
   "lastOpenFiles": [
+    "linux/git_credentials.md",
     "develop/git_commands.md",
+    "develop/docker/docker_commands.md",
     "tasks.md",
     "git.md",
-    "develop/docker/docker_commands.md",
     "linux/change_lang_alt_plus_shift.md",
     "linux/console_aliases.md",
     "linux/snapper.md",
@@ -180,7 +181,6 @@
     "linux/programming_languages.md",
     "assets/vpn_setup_wire_guard.pdf",
     "linux/flatpak_apps.md",
-    "linux/package_managers.md",
     "assets/Pasted image 20240815232103.png",
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
