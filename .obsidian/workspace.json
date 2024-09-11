@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/git_commands.md",
+                "file": "develop/docker/docker_commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/git_commands.md",
+                "file": "develop/docker/docker_commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/git_commands.md",
+                "file": "develop/docker/docker_commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/git_commands.md"
+                "file": "develop/docker/docker_commands.md"
               }
             }
           }
@@ -154,13 +154,13 @@
   },
   "active": "c107015fa21a3d89",
   "lastOpenFiles": [
+    "develop/git_commands.md",
     "tasks.md",
     "git.md",
     "develop/docker/docker_commands.md",
     "linux/change_lang_alt_plus_shift.md",
     "linux/console_aliases.md",
     "linux/snapper.md",
-    "develop/git_commands.md",
     "linux/openconnect.md",
     "linux/appearance.md",
     "linux/fedora_setup_guide.md",
