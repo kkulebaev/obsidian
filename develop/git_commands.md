@@ -15,7 +15,7 @@ git remote add origin [URL]
 
 Создать тэг
 ```sh
-git tag [tag_name] [branch]
+git tag [tag_name] [branch] -m "[Сообщение]"
 ```
 
 Запушить тэг в репозиторий
