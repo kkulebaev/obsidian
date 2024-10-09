@@ -11,12 +11,8 @@
             "id": "6fa3d13bb3ecafd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/fedora_setup_guide.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/fedora_setup_guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "linux/fedora_setup_guide.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,33 +146,33 @@
   },
   "active": "6fa3d13bb3ecafd7",
   "lastOpenFiles": [
-    "develop/git_commands.md",
-    "linux/git_credentials.md",
-    "develop/docker/docker_commands.md",
+    "develop/docker/Команды Docker.md",
+    "linux/ssh_keys.md",
+    "README.md",
     "tasks.md",
+    "Рекорды по бегу.md",
+    "Английские слова.md",
+    "movies.md",
+    "develop/Команды wsl.md",
+    "develop/Настройка WiFi роутера.md",
+    "develop/Программа для трекинга активности за ПК.md",
+    "develop/Пул-реквест рендера в веб воркере.md",
+    "develop/Команды nvm.md",
+    "develop/Команды npm.md",
+    "develop/Команды Git.md",
+    "develop/Статья о том как форкнуть изменить и опубликовать нпм пакет.md",
+    "develop/concerns.md",
+    "develop/Интересные возможности браузера.md",
+    "develop/libs/Шаблон masonry.md",
+    "develop/libs/Библиотеки для менеджмента переводов.md",
+    "develop/fonts/mona-sans.md",
+    "develop/docker/Команды Docker для Postgres.md",
+    "linux/fedora_setup_guide.md",
+    "linux/git_credentials.md",
     "git.md",
     "linux/change_lang_alt_plus_shift.md",
     "linux/console_aliases.md",
-    "linux/snapper.md",
-    "linux/openconnect.md",
-    "linux/appearance.md",
-    "linux/fedora_setup_guide.md",
-    "linux/zsh_and_oh_my_zsh.md",
-    "develop/wsl_commands.md",
-    "develop/rescue_time.md",
-    "develop/render_diffs_app_in_a_web_worker.md",
-    "develop/nvm_commands.md",
-    "develop/npm_commands.md",
-    "develop/forking_modifying_and_publishing_npm_packages.md",
-    "develop/concerns.md",
-    "linux/ssh_keys.md",
-    "develop/WiFi setup guide.md",
-    "README.md",
-    "linux/gnome_extensions.md",
-    "linux/console_utils.md",
-    "linux/programming_languages.md",
     "assets/vpn_setup_wire_guard.pdf",
-    "linux/flatpak_apps.md",
     "assets/Pasted image 20240815232103.png",
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
