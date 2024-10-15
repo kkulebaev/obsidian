@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/snapper.md",
+                "file": "linux/fedora_setup_guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/snapper.md",
+                "file": "linux/fedora_setup_guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/snapper.md",
+                "file": "linux/fedora_setup_guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/snapper.md"
+                "file": "linux/fedora_setup_guide.md"
               }
             }
           }
@@ -154,6 +154,9 @@
   },
   "active": "6fa3d13bb3ecafd7",
   "lastOpenFiles": [
+    "linux/snapper.md",
+    "linux/flut_hub.md",
+    "linux/fedora_setup_guide.md",
     "develop/docker/Команды Docker.md",
     "linux/ssh_keys.md",
     "README.md",
@@ -175,11 +178,8 @@
     "develop/libs/Библиотеки для менеджмента переводов.md",
     "develop/fonts/mona-sans.md",
     "develop/docker/Команды Docker для Postgres.md",
-    "linux/fedora_setup_guide.md",
     "linux/git_credentials.md",
     "git.md",
-    "linux/change_lang_alt_plus_shift.md",
-    "linux/console_aliases.md",
     "assets/vpn_setup_wire_guard.pdf",
     "assets/Pasted image 20240815232103.png",
     "assets/Pasted image 20240815230913.png",
