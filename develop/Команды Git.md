@@ -38,3 +38,8 @@ git config --local user.email "ku.kulebaev@interfax.ru"
 git rebase -r [ID КОММИТА ДО КОТОРОГО НУЖНО МЕНЯТЬ АВТОРА (НЕ ВКЛЮЧИТЕЛЬНО)] \
     --exec 'git commit --amend --no-edit --reset-author'
 ```
+
+Изменить дату последнего коммита
+```sh
+git commit --amend --date=now --no-edit
+```
