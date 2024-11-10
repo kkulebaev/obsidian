@@ -11,14 +11,12 @@
             "id": "6fa3d13bb3ecafd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "develop/Команды Git.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/vpn_setup_wire_guard.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Команды Git"
+              "icon": "lucide-file-text",
+              "title": "vpn_setup_wire_guard"
             }
           }
         ]
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/Команды Git.md",
+                "file": "assets/vpn_setup_wire_guard.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Команды Git"
+              "title": "Backlinks for vpn_setup_wire_guard"
             }
           },
           {
@@ -173,10 +171,18 @@
   "active": "6fa3d13bb3ecafd7",
   "lastOpenFiles": [
     "linux/fedora_setup_guide.md",
+    "linux/console_utils.md",
+    "linux/console_aliases.md",
+    "linux/cisco_any_connect.md",
+    "linux/change_lang_alt_plus_shift.md",
+    "linux/brave_browser.md",
+    "linux/appearance.md",
+    "linux/ssh_keys.md",
+    "develop/Интересные возможности браузера.md",
+    "develop/Команды Git.md",
     "linux/snapper.md",
     "linux/flut_hub.md",
     "develop/docker/Команды Docker.md",
-    "linux/ssh_keys.md",
     "README.md",
     "tasks.md",
     "Рекорды по бегу.md",
@@ -188,16 +194,8 @@
     "develop/Пул-реквест рендера в веб воркере.md",
     "develop/Команды nvm.md",
     "develop/Команды npm.md",
-    "develop/Команды Git.md",
     "develop/Статья о том как форкнуть изменить и опубликовать нпм пакет.md",
     "develop/concerns.md",
-    "develop/Интересные возможности браузера.md",
-    "develop/libs/Шаблон masonry.md",
-    "develop/libs/Библиотеки для менеджмента переводов.md",
-    "develop/fonts/mona-sans.md",
-    "develop/docker/Команды Docker для Postgres.md",
-    "linux/git_credentials.md",
-    "git.md",
     "assets/vpn_setup_wire_guard.pdf",
     "assets/Pasted image 20240815232103.png",
     "assets/Pasted image 20240815230913.png",
