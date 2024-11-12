@@ -11,12 +11,14 @@
             "id": "6fa3d13bb3ecafd7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "assets/vpn_setup_wire_guard.pdf"
+                "file": "develop/Настройка WiFi роутера.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "vpn_setup_wire_guard"
+              "icon": "lucide-file",
+              "title": "Настройка WiFi роутера"
             }
           }
         ]
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/vpn_setup_wire_guard.pdf",
+                "file": "develop/Настройка WiFi роутера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vpn_setup_wire_guard"
+              "title": "Backlinks for Настройка WiFi роутера"
             }
           },
           {
@@ -168,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fa3d13bb3ecafd7",
+  "active": "970fe9be292eb51c",
   "lastOpenFiles": [
+    "assets/vpn_setup_wire_guard.pdf",
     "linux/fedora_setup_guide.md",
     "linux/console_utils.md",
     "linux/console_aliases.md",
@@ -195,8 +198,6 @@
     "develop/Команды nvm.md",
     "develop/Команды npm.md",
     "develop/Статья о том как форкнуть изменить и опубликовать нпм пакет.md",
-    "develop/concerns.md",
-    "assets/vpn_setup_wire_guard.pdf",
     "assets/Pasted image 20240815232103.png",
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
