@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/brave_browser.md",
+                "file": "linux/wireguard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "brave_browser"
+              "title": "wireguard"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/brave_browser.md",
+                "file": "linux/wireguard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for brave_browser"
+              "title": "Backlinks for wireguard"
             }
           },
           {
@@ -172,14 +172,15 @@
   },
   "active": "6fa3d13bb3ecafd7",
   "lastOpenFiles": [
+    "linux/fedora_setup_guide.md",
+    "linux/wireguard.md",
+    "linux/brave_browser.md",
     "develop/Настройка WiFi роутера.md",
     "assets/vpn_setup_wire_guard.pdf",
-    "linux/fedora_setup_guide.md",
     "linux/console_utils.md",
     "linux/console_aliases.md",
     "linux/cisco_any_connect.md",
     "linux/change_lang_alt_plus_shift.md",
-    "linux/brave_browser.md",
     "linux/appearance.md",
     "linux/ssh_keys.md",
     "develop/Интересные возможности браузера.md",
