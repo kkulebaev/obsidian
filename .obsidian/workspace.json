@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/Настройка WiFi роутера.md",
+                "file": "linux/brave_browser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Настройка WiFi роутера"
+              "title": "brave_browser"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/Настройка WiFi роутера.md",
+                "file": "linux/brave_browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Настройка WiFi роутера"
+              "title": "Backlinks for brave_browser"
             }
           },
           {
@@ -170,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "970fe9be292eb51c",
+  "active": "6fa3d13bb3ecafd7",
   "lastOpenFiles": [
+    "develop/Настройка WiFi роутера.md",
     "assets/vpn_setup_wire_guard.pdf",
     "linux/fedora_setup_guide.md",
     "linux/console_utils.md",
@@ -192,7 +193,6 @@
     "Английские слова.md",
     "movies.md",
     "develop/Команды wsl.md",
-    "develop/Настройка WiFi роутера.md",
     "develop/Программа для трекинга активности за ПК.md",
     "develop/Пул-реквест рендера в веб воркере.md",
     "develop/Команды nvm.md",
