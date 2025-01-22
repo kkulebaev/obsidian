@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/Сертификат в доверенные.md",
+                "file": "develop/Команды Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сертификат в доверенные"
+              "title": "Команды Git"
             }
           }
         ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/Сертификат в доверенные.md",
+                "file": "develop/Команды Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Сертификат в доверенные"
+              "title": "Backlinks for Команды Git"
             }
           },
           {
@@ -187,8 +187,8 @@
   },
   "active": "b9c7ee8999fc45b6",
   "lastOpenFiles": [
-    "develop/Команды Git.md",
     "develop/Сертификат в доверенные.md",
+    "develop/Команды Git.md",
     "develop/Untitled.md",
     "develop/Настройка WiFi роутера.md",
     "develop/Команды Wireguard.md",
