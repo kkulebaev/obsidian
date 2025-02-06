@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/Команды Git.md",
+                "file": "develop/Вопросы для собеседований.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды Git"
+              "title": "Вопросы для собеседований"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/Команды Git.md",
+                "file": "develop/Вопросы для собеседований.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Команды Git"
+              "title": "Backlinks for Вопросы для собеседований"
             }
           },
           {
@@ -188,9 +188,9 @@
   },
   "active": "b9c7ee8999fc45b6",
   "lastOpenFiles": [
-    "develop/Сертификат в доверенные.md",
     "develop/Команды Git.md",
-    "develop/Untitled.md",
+    "develop/Вопросы для собеседований.md",
+    "develop/Сертификат в доверенные.md",
     "develop/Настройка WiFi роутера.md",
     "develop/Команды Wireguard.md",
     "linux/fedora_setup_guide.md",
