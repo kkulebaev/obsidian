@@ -18,6 +18,11 @@ git remote add origin [URL]
 git tag [tag_name] [branch] -m "[Сообщение]"
 ```
 
+Удалить тэг локально
+```sh
+git tag -d [tag_name]
+```
+
 Запушить тэг в репозиторий
 ```sh
 git push origin tag [tag_name]
