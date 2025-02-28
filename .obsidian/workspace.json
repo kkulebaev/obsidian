@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/Команды ESLint.md",
+                "file": "develop/Команды Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды ESLint"
+              "title": "Команды Git"
             }
           }
         ],
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/Команды ESLint.md",
+                "file": "develop/Команды Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Команды ESLint"
+              "title": "Backlinks for Команды Git"
             }
           },
           {
@@ -202,8 +202,8 @@
   },
   "active": "e63ac0fb890d6b91",
   "lastOpenFiles": [
-    "develop/Команды Git.md",
     "develop/Команды ESLint.md",
+    "develop/Команды Git.md",
     "develop/Команды Wireguard.md",
     "linux/console_aliases.md",
     "develop/Вопросы для собеседований.md",
