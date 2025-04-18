@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/Программа для трекинга активности за ПК.md",
+                "file": "develop/Команды Wireguard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Программа для трекинга активности за ПК"
+              "title": "Команды Wireguard"
             }
           }
         ],
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/Программа для трекинга активности за ПК.md",
+                "file": "develop/Команды Wireguard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Программа для трекинга активности за ПК"
+              "title": "Backlinks for Команды Wireguard"
             }
           },
           {
@@ -202,6 +202,8 @@
   },
   "active": "e63ac0fb890d6b91",
   "lastOpenFiles": [
+    "linux/ssh_keys.md",
+    "develop/Программа для трекинга активности за ПК.md",
     "develop/Интересные возможности браузера.md",
     "develop/libs/Библиотеки для менеджмента переводов.md",
     "develop/Команды Git.md",
@@ -218,7 +220,6 @@
     "linux/cisco_any_connect.md",
     "linux/change_lang_alt_plus_shift.md",
     "linux/appearance.md",
-    "linux/ssh_keys.md",
     "linux/snapper.md",
     "linux/flut_hub.md",
     "develop/docker/Команды Docker.md",
@@ -228,7 +229,6 @@
     "Английские слова.md",
     "movies.md",
     "develop/Команды wsl.md",
-    "develop/Программа для трекинга активности за ПК.md",
     "assets/Pasted image 20240815232103.png",
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
