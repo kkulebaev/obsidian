@@ -48,3 +48,10 @@ git rebase -r [ID КОММИТА ДО КОТОРОГО НУЖНО МЕНЯТЬ �
 ```sh
 git commit --amend --date=now --no-edit
 ```
+
+Ребейз засквошенной ветки
+
+```
+git checkout Branch-2
+git rebase --onto master Branch-1
+```
