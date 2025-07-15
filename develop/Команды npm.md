@@ -20,3 +20,8 @@ npm version <newversion> // произвольная версия
 ```sh
 npm unpublish <package-name> -f
 ```
+
+Устранение дублей
+```sh
+npm dedupe
+```

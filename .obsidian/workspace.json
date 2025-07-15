@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/Команды Git.md",
+                "file": "develop/Команды npm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды Git"
+              "title": "Команды npm"
             }
           }
         ],
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/Команды Git.md",
+                "file": "develop/Команды npm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Команды Git"
+              "title": "Backlinks for Команды npm"
             }
           },
           {
@@ -202,13 +202,13 @@
   },
   "active": "e63ac0fb890d6b91",
   "lastOpenFiles": [
+    "develop/Команды Git.md",
     "assets/Pasted image 20250711111134.png",
     "develop/Команды Wireguard.md",
     "linux/ssh_keys.md",
     "develop/Программа для трекинга активности за ПК.md",
     "develop/Интересные возможности браузера.md",
     "develop/libs/Библиотеки для менеджмента переводов.md",
-    "develop/Команды Git.md",
     "develop/Команды ESLint.md",
     "linux/console_aliases.md",
     "develop/Вопросы для собеседований.md",
@@ -239,7 +239,6 @@
     "assets/web_worker_render.png",
     "assets/rescue_time.png",
     "assets/obsidian_welcome_screen.png",
-    "assets/mona_sans.png",
     "WSL"
   ]
 }
