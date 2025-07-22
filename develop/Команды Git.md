@@ -50,8 +50,12 @@ git commit --amend --date=now --no-edit
 ```
 
 Ребейз засквошенной ветки
-
 ```
 git checkout Branch-2
 git rebase --onto master Branch-1
+```
+
+Запушить в удаленный репозиторий с другим именем
+```
+git push --force origin [ЛОКАЛЬНОЕ НАЗВАНИЕ ВЕТКИ]:[НАЗВАНИЕ ВЕТКИ В УДАЛЕННОМ РЕПО]
 ```
