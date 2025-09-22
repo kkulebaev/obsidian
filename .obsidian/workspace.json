@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/Команды Git.md",
+                "file": "develop/Команды Wireguard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды Git"
+              "title": "Команды Wireguard"
             }
           }
         ],
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/Команды Git.md",
+                "file": "develop/Команды Wireguard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Команды Git"
+              "title": "Backlinks for Команды Wireguard"
             }
           },
           {
@@ -203,8 +203,8 @@
   },
   "active": "e63ac0fb890d6b91",
   "lastOpenFiles": [
-    "develop/Команды npm.md",
     "develop/Команды Git.md",
+    "develop/Команды npm.md",
     "assets/Pasted image 20250711111134.png",
     "develop/Команды Wireguard.md",
     "linux/ssh_keys.md",
