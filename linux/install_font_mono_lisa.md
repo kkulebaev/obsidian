@@ -1,7 +1,17 @@
 Скачать MonoLisa
 
 ```sh
-git clone https://github.com/Bluh7/MonoLisa-font-backup.git ~/Загрузки/monolisa
+git clone https://github.com/iabhiyaan/monolisa-full.git ~/Загрузки/monolisa
 ```
 
-Установить https://docs.fedoraproject.org/en-US/quick-docs/fonts/#user-fonts--command-line
+```sh
+mkdir -p ~/.local/share/fonts/monolisa
+```
+
+```sh
+cp ~/Загрузки/monolisa/fonts/MonoLisa-normal.ttf ~/.local/share/fonts/monolisa
+```
+
+```sh
+fc-cache -v
+```

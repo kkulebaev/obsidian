@@ -25,7 +25,3 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```sh
 reboot
 ```
-
-```
-zsh
-```

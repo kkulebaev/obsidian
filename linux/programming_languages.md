@@ -1,10 +1,11 @@
-## Go
+## Go (-)
 
 ```sh
 sudo dnf install golang
 ```
 
 ## Node.js
+На Fedora 40 уже установлен node.js
 
 Node.js is available as a module called `nodejs` in CentOS/RHEL 8 and Fedora.
 
