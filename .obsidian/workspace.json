@@ -53,12 +53,14 @@
             "id": "e209e4996fe0df3b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "develop/Команды Git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Команды Git"
             }
           }
         ],
@@ -145,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "develop/Команды Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Команды Git"
             }
           },
           {
