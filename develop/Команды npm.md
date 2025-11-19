@@ -30,3 +30,8 @@ npm dedupe
 ```sh
 npm cache clean --force
 ```
+
+Установка зависимостей с игнорированием postinstall скриптов
+```sh
+npm ci --ignore-scripts
+```
