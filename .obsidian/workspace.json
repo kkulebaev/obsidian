@@ -53,12 +53,14 @@
             "id": "dafe9b556044cc5c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "develop/docker/Команды Docker.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "Команды Docker"
             }
           }
         ],
@@ -145,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "develop/docker/Команды Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Команды Docker"
             }
           },
           {
@@ -214,6 +217,7 @@
   },
   "active": "dafe9b556044cc5c",
   "lastOpenFiles": [
+    "README.md~",
     "develop/Команды npm.md",
     "develop/Команды Git.md",
     "develop/Команды Wireguard.md",
@@ -241,7 +245,6 @@
     "tasks.md",
     "Рекорды по бегу.md",
     "Английские слова.md",
-    "movies.md",
     "assets/Pasted image 20240815232103.png",
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
