@@ -2,14 +2,52 @@
 
 ![Obsidian Cover](assets/obsidian_cover.png)
 
-## What is Obsidian
-[Obsidian](https://obsidian.md/) is both a Markdown editor and a knowledge base app.
+*Централизованное хранилище знаний, заметок и полезной информации*
 
-Used in the most basic way, you can edit and preview Markdown files. But its true power lies in managing a densely networked knowledge base.
+[![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
-## Installation from Flatpak
-The installation process is described in the next section - [installation_obsidian_from_flatpak](linux/installation_obsidian_from_flatpak.md).
+---
 
-## Obsidian Help
-[Obsidian Help](https://help.obsidian.md/Home) - official Obsidian Help site, where you can find tips and guides on how to use.
+## 🌟 О проекте
+
+Эта база знаний создана с помощью [Obsidian](https://obsidian.md/) — мощного инструмента для работы с заметками и управления знаниями. Obsidian позволяет создавать связанную сеть заметок в формате Markdown, обеспечивая гибкость и контроль над вашими данными.
+
+> 💾 **Этот репозиторий используется для автоматических бэкапов моего Obsidian vault**, обеспечивая сохранность данных и возможность синхронизации между устройствами.
+
+## 🛠️ Установка Obsidian
+
+Скачайте Obsidian с [официального сайта](https://obsidian.md/) для Windows, macOS или Linux.
+
+## 📖 Полезные ресурсы
+
+- 🌐 [Официальный сайт Obsidian](https://obsidian.md/)
+- 📚 [Obsidian Help](https://help.obsidian.md/Home) — официальная документация
+- 💬 [Obsidian Community](https://obsidian.md/community) — сообщество пользователей
+- 🎓 [Markdown Guide](https://www.markdownguide.org/) — руководство по Markdown
+
+## ✨ Особенности
+
+- 📝 **Markdown-first** — все заметки в открытом формате
+- 🔗 **Связи между заметками** — создание сети знаний
+- 🔍 **Мощный поиск** — быстрый доступ к информации
+- 🎨 **Кастомизация** — темы и плагины
+- 🔒 **Локальное хранение** — полный контроль над данными
+- 📱 **Кроссплатформенность** — работа на всех устройствах
+
+## 🎯 Как использовать
+
+1. Откройте эту папку как vault в Obsidian
+2. Используйте поиск (`Ctrl/Cmd + O`) для быстрого доступа к заметкам
+3. Создавайте связи между заметками с помощью `[[название заметки]]`
+4. Используйте теги для организации контента
+5. Исследуйте граф связей для визуализации знаний
+
+---
+
+<div align="center">
+
+**Сделано с ❤️ и [Obsidian](https://obsidian.md/)**
+
+</div>
 
