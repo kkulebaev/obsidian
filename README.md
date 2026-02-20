@@ -2,52 +2,52 @@
 
 ![Obsidian Cover](assets/obsidian_cover.png)
 
-*Централизованное хранилище знаний, заметок и полезной информации*
+*Centralized storage of knowledge, notes and useful information*
 
 [![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 ---
 
-## 🌟 О проекте
+## 🌟 About the Project
 
-Эта база знаний создана с помощью [Obsidian](https://obsidian.md/) — мощного инструмента для работы с заметками и управления знаниями. Obsidian позволяет создавать связанную сеть заметок в формате Markdown, обеспечивая гибкость и контроль над вашими данными.
+This knowledge base is created using [Obsidian](https://obsidian.md/) — a powerful tool for note-taking and knowledge management. Obsidian allows you to create an interconnected network of notes in Markdown format, providing flexibility and control over your data.
 
-> 💾 **Этот репозиторий используется для автоматических бэкапов моего Obsidian vault**, обеспечивая сохранность данных и возможность синхронизации между устройствами.
+> 💾 **This repository is used for automatic backups of my Obsidian vault**, ensuring data safety and the ability to sync between devices.
 
-## 🛠️ Установка Obsidian
+## 🛠️ Installing Obsidian
 
-Скачайте Obsidian с [официального сайта](https://obsidian.md/) для Windows, macOS или Linux.
+Download Obsidian from the [official website](https://obsidian.md/) for Windows, macOS or Linux.
 
-## 📖 Полезные ресурсы
+## 📖 Useful Resources
 
-- 🌐 [Официальный сайт Obsidian](https://obsidian.md/)
-- 📚 [Obsidian Help](https://help.obsidian.md/Home) — официальная документация
-- 💬 [Obsidian Community](https://obsidian.md/community) — сообщество пользователей
-- 🎓 [Markdown Guide](https://www.markdownguide.org/) — руководство по Markdown
+- 🌐 [Official Obsidian Website](https://obsidian.md/)
+- 📚 [Obsidian Help](https://help.obsidian.md/Home) — official documentation
+- 💬 [Obsidian Community](https://obsidian.md/community) — user community
+- 🎓 [Markdown Guide](https://www.markdownguide.org/) — Markdown tutorial
 
-## ✨ Особенности
+## ✨ Features
 
-- 📝 **Markdown-first** — все заметки в открытом формате
-- 🔗 **Связи между заметками** — создание сети знаний
-- 🔍 **Мощный поиск** — быстрый доступ к информации
-- 🎨 **Кастомизация** — темы и плагины
-- 🔒 **Локальное хранение** — полный контроль над данными
-- 📱 **Кроссплатформенность** — работа на всех устройствах
+- 📝 **Markdown-first** — all notes in an open format
+- 🔗 **Links between notes** — creating a knowledge network
+- 🔍 **Powerful search** — quick access to information
+- 🎨 **Customization** — themes and plugins
+- 🔒 **Local storage** — full control over your data
+- 📱 **Cross-platform** — works on all devices
 
-## 🎯 Как использовать
+## 🎯 How to Use
 
-1. Откройте эту папку как vault в Obsidian
-2. Используйте поиск (`Ctrl/Cmd + O`) для быстрого доступа к заметкам
-3. Создавайте связи между заметками с помощью `[[название заметки]]`
-4. Используйте теги для организации контента
-5. Исследуйте граф связей для визуализации знаний
+1. Open this folder as a vault in Obsidian
+2. Use search (`Ctrl/Cmd + O`) for quick access to notes
+3. Create links between notes using `[[note name]]`
+4. Use tags to organize content
+5. Explore the graph view to visualize connections
 
 ---
 
 <div align="center">
 
-**Сделано с ❤️ и [Obsidian](https://obsidian.md/)**
+**Made with ❤️ and [Obsidian](https://obsidian.md/)**
 
 </div>
 
