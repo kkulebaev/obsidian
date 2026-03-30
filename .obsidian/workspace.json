@@ -11,10 +11,14 @@
             "id": "ddbedf314adfd278",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "linux/openconnect.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "openconnect"
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/openconnect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для openconnect"
             }
           },
           {
@@ -170,6 +175,7 @@
   "active": "ddbedf314adfd278",
   "lastOpenFiles": [
     "develop/Команды Git.md",
+    "develop/Команды wsl.md",
     "develop/Команды ssh.md",
     "develop/Команды nvm.md",
     "develop/docker/Команды Docker.md",
@@ -197,7 +203,6 @@
     "linux/flut_hub.md",
     "README.md",
     "tasks.md",
-    "Рекорды по бегу.md",
     "assets/Pasted image 20240815232103.png",
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
