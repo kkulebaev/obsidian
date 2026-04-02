@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/Команды ssh.md",
+                "file": "develop/Команды Wireguard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды ssh"
+              "title": "Команды Wireguard"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/Команды ssh.md",
+                "file": "develop/Команды Wireguard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Команды ssh"
+              "title": "Обратные ссылки для Команды Wireguard"
             }
           },
           {
@@ -174,11 +174,11 @@
   },
   "active": "f28287a17d997fd2",
   "lastOpenFiles": [
+    "develop/Команды ssh.md",
     "linux/openconnect.md",
     "linux/cisco_any_connect.md",
     "develop/Команды Git.md",
     "develop/Команды wsl.md",
-    "develop/Команды ssh.md",
     "develop/Команды nvm.md",
     "develop/docker/Команды Docker.md",
     "develop/Команды npm.md",
