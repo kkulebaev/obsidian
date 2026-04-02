@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7438c93bf651011d",
+        "id": "49f9ff64b67a9bec",
         "type": "tabs",
         "children": [
           {
-            "id": "ddbedf314adfd278",
+            "id": "f28287a17d997fd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/openconnect.md",
+                "file": "develop/Команды ssh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "openconnect"
-            }
-          },
-          {
-            "id": "24d1c50ededeeafe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.12.7"
+              "title": "Команды ssh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "develop/Команды ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Команды ssh"
             }
           },
           {
@@ -184,8 +172,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "24d1c50ededeeafe",
+  "active": "f28287a17d997fd2",
   "lastOpenFiles": [
+    "linux/openconnect.md",
+    "linux/cisco_any_connect.md",
     "develop/Команды Git.md",
     "develop/Команды wsl.md",
     "develop/Команды ssh.md",
@@ -208,13 +198,11 @@
     "linux/brave_browser.md",
     "assets/vpn_setup_wire_guard.pdf",
     "linux/console_utils.md",
-    "linux/cisco_any_connect.md",
     "linux/change_lang_alt_plus_shift.md",
     "linux/appearance.md",
     "linux/snapper.md",
     "linux/flut_hub.md",
     "README.md",
-    "tasks.md",
     "assets/Pasted image 20240815232103.png",
     "assets/Pasted image 20240815230913.png",
     "assets/Pasted image 20240815230724.png",
