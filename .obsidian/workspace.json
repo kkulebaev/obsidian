@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/Команды Wireguard.md",
+                "file": "develop/Команды Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды Wireguard"
+              "title": "Команды Git"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/Команды Wireguard.md",
+                "file": "develop/Команды Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Команды Wireguard"
+              "title": "Обратные ссылки для Команды Git"
             }
           },
           {
@@ -174,6 +174,7 @@
   },
   "active": "f28287a17d997fd2",
   "lastOpenFiles": [
+    "develop/Команды Wireguard.md",
     "develop/Команды ssh.md",
     "linux/openconnect.md",
     "linux/cisco_any_connect.md",
@@ -183,7 +184,6 @@
     "develop/docker/Команды Docker.md",
     "develop/Команды npm.md",
     "README.md~",
-    "develop/Команды Wireguard.md",
     "assets/Pasted image 20250711111134.png",
     "linux/ssh_keys.md",
     "develop/Программа для трекинга активности за ПК.md",
