@@ -2,6 +2,8 @@
 
 Точка входа в vault. Навигация по разделам.
 
+См. также индексы по разделам: [[develop/_index|develop]] · [[linux/_index|linux]] · [[Content|verses]] · [[misc/_index|misc]].
+
 ## develop — разработка и IT
 
 ### Команды и шпаргалки
