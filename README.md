@@ -2,14 +2,52 @@
 
 ![Obsidian Cover](assets/obsidian_cover.png)
 
-## What is Obsidian
-[Obsidian](https://obsidian.md/) is both a Markdown editor and a knowledge base app.
+*Centralized storage of knowledge, notes and useful information*
 
-Used in the most basic way, you can edit and preview Markdown files. But its true power lies in managing a densely networked knowledge base.
+[![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
-## Installation from Flatpak
-The installation process is described in the next section - [installation_obsidian_from_flatpak](linux/installation_obsidian_from_flatpak.md).
+---
 
-## Obsidian Help
-[Obsidian Help](https://help.obsidian.md/Home) - official Obsidian Help site, where you can find tips and guides on how to use.
+## 🌟 About the Project
+
+This knowledge base is created using [Obsidian](https://obsidian.md/) — a powerful tool for note-taking and knowledge management. Obsidian allows you to create an interconnected network of notes in Markdown format, providing flexibility and control over your data.
+
+> 💾 **This repository is used for automatic backups of my Obsidian vault**, ensuring data safety and the ability to sync between devices.
+
+## 🛠️ Installing Obsidian
+
+Download Obsidian from the [official website](https://obsidian.md/) for Windows, macOS or Linux.
+
+## 📖 Useful Resources
+
+- 🌐 [Official Obsidian Website](https://obsidian.md/)
+- 📚 [Obsidian Help](https://help.obsidian.md/Home) — official documentation
+- 💬 [Obsidian Community](https://obsidian.md/community) — user community
+- 🎓 [Markdown Guide](https://www.markdownguide.org/) — Markdown tutorial
+
+## ✨ Features
+
+- 📝 **Markdown-first** — all notes in an open format
+- 🔗 **Links between notes** — creating a knowledge network
+- 🔍 **Powerful search** — quick access to information
+- 🎨 **Customization** — themes and plugins
+- 🔒 **Local storage** — full control over your data
+- 📱 **Cross-platform** — works on all devices
+
+## 🎯 How to Use
+
+1. Open this folder as a vault in Obsidian
+2. Use search (`Ctrl/Cmd + O`) for quick access to notes
+3. Create links between notes using `[[note name]]`
+4. Use tags to organize content
+5. Explore the graph view to visualize connections
+
+---
+
+<div align="center">
+
+**Made with ❤️ and [Obsidian](https://obsidian.md/)**
+
+</div>
 

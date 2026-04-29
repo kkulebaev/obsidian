@@ -25,3 +25,13 @@ npm unpublish <package-name> -f
 ```sh
 npm dedupe
 ```
+
+Сбросить кэш
+```sh
+npm cache clean --force
+```
+
+Установка зависимостей с игнорированием postinstall скриптов
+```sh
+npm ci --ignore-scripts
+```
