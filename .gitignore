@@ -1,0 +1,15 @@
+# Obsidian: локальное состояние UI (открытые вкладки, размеры панелей)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+
+# Obsidian: кэш индексов, корзина
+.obsidian/cache
+.trash/
+
+# Артефакт старого merge-конфликта (вложенная .obsidian внутри .obsidian)
+.obsidian/.obsidian/
+
+# OS
+.DS_Store
+Thumbs.db
