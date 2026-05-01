@@ -2,7 +2,7 @@
 
 Точка входа в vault. Навигация по разделам.
 
-См. также индексы по разделам: [[develop/_index|develop]] · [[linux/_index|linux]] · [[Content|verses]] · [[misc/_index|misc]].
+См. также индексы по разделам: [[develop/_index|develop]] · [[fedora-setup/_index|fedora-setup]] · [[windows/_index|windows]] · [[Content|verses]] · [[misc/_index|misc]].
 
 ## develop — разработка и IT
 
@@ -20,20 +20,15 @@
 
 - [[Coolify]]
 - [[Вопросы для собеседований]]
-- [[Интересные возможности браузера]]
 - [[Настройка WiFi роутера]]
-- [[Программа для трекинга активности за ПК]]
-- [[Пул-реквест рендера в веб воркере]]
-- [[Сертификат в доверенные]]
-- [[Статья о том как форкнуть изменить и опубликовать нпм пакет]]
 
-### Шрифты и библиотеки
+### Закладки
 
-- [[mona-sans]]
-- [[Библиотеки для менеджмента переводов]]
-- [[Шаблон masonry]]
+- [[Закладки]] — полезные ссылки, библиотеки, статьи, шрифты
 
-## linux — настройка системы
+## fedora-setup — настройка Fedora с нуля
+
+См. [[fedora_setup_guide]] для полного пошагового гайда.
 
 ### Установка и базовая настройка
 
@@ -50,7 +45,6 @@
 - [[brave_browser]]
 - [[installation_obsidian_from_flatpak]]
 - [[flatpak_apps]]
-- [[flut_hub]]
 - [[package_managers]]
 - [[programming_languages]]
 - [[install_font_mono_lisa]]
@@ -60,11 +54,18 @@
 - [[cisco_any_connect]]
 - [[openconnect]]
 
-### Прочее
+### Учётки и ключи
 
 - [[git_credentials]]
 - [[ssh_keys]]
+
+### Бэкапы
+
 - [[snapper]]
+
+## windows — настройка Windows
+
+- [[Сертификат в доверенные]]
 
 ## verses — стихи
 

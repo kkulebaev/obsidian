@@ -1,3 +1,9 @@
+## Подключение репозитория FlatHub
+
+```sh
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+```
+
 ## Slack
 ```sh
 flatpak install com.slack.Slack

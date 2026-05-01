@@ -1,4 +1,4 @@
-- включить репозиторий [flut_hub](flut_hub.md)
+- включить репозиторий FlatHub: см. [flatpak_apps](flatpak_apps.md)
     
 - [git_credentials](git_credentials.md)
     
