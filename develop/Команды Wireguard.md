@@ -23,6 +23,10 @@ cd /etc/wireguard
 systemctl restart wg-quick@wghub
 ```
 
+Скопировать файл с удаленного сервера в локальную директорию
+```sh
+scp root@95.214.8.243:/etc/wireguard/wgclient_31.conf ~/Downloads/
+```
 ### Как добавить пользователя VPN?
 
 Подключитесь к серверу по SSH: ssh root@server_ip
