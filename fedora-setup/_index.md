@@ -20,6 +20,7 @@
 - [[package_managers]]
 - [[programming_languages]]
 - [[install_font_mono_lisa]]
+- [[obs_setup]]
 
 ## Сеть и VPN
 
