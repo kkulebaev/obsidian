@@ -49,6 +49,7 @@
 - [[programming_languages]]
 - [[install_font_mono_lisa]]
 - [[obs_setup]]
+- [[obs_lofi_music]]
 
 ### Сеть и VPN
 
