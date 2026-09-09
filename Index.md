@@ -2,7 +2,7 @@
 
 Точка входа в vault. Навигация по разделам.
 
-См. также индексы по разделам: [[develop/_index|develop]] · [[fedora-setup/_index|fedora-setup]] · [[windows/_index|windows]] · [[Content|verses]] · [[misc/_index|misc]].
+См. также индексы по разделам: [[develop/_index|develop]] · [[fedora-setup/_index|fedora-setup]] · [[obs/_index|obs]] · [[windows/_index|windows]] · [[Content|verses]] · [[misc/_index|misc]].
 
 ## develop — разработка и IT
 
@@ -48,8 +48,6 @@
 - [[package_managers]]
 - [[programming_languages]]
 - [[install_font_mono_lisa]]
-- [[obs_setup]]
-- [[obs_lofi_music]]
 
 ### Сеть и VPN
 
@@ -64,6 +62,14 @@
 ### Бэкапы
 
 - [[snapper]]
+
+## obs — стрим на Twitch
+
+Настройка OBS Studio, оверлеев и звука. См. [[obs_setup]] как точку входа.
+
+- [[obs_setup]]
+- [[obs_lofi_music]]
+- [[obs_twitch_chat]]
 
 ## windows — настройка Windows
 

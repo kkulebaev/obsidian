@@ -1,6 +1,7 @@
 # fedora-setup
 
 Пошаговая настройка свежей Fedora + GNOME с нуля. Главный файл — [[fedora_setup_guide]].
+Настройка OBS вынесена в раздел [[obs/_index|obs]].
 
 ## Установка и базовая настройка
 
@@ -20,8 +21,6 @@
 - [[package_managers]]
 - [[programming_languages]]
 - [[install_font_mono_lisa]]
-- [[obs_setup]]
-- [[obs_lofi_music]]
 
 ## Сеть и VPN
 
