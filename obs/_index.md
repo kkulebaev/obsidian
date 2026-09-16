@@ -9,5 +9,6 @@
 
 ## Оверлеи и звук
 
-- [[obs_lofi_music]]
+- [[obs_music]]
 - [[obs_twitch_chat]]
+- [[obs_countdown]]

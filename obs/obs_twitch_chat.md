@@ -182,4 +182,4 @@ grep -i "obs-browser" "$(ls -t ~/.config/obs-studio/logs/*.txt | head -1)"
 ## Откат на KapChat
 
 Бэкап коллекции сцен снят до переезда: `Стрим.json.pre-local-chat.bak`. Класть при
-полностью закрытом OBS — процедура правки конфига описана в [[obs_lofi_music]].
+полностью закрытом OBS — процедура правки конфига описана в [[obs_music]].

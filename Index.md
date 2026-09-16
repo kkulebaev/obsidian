@@ -68,8 +68,9 @@
 Настройка OBS Studio, оверлеев и звука. См. [[obs_setup]] как точку входа.
 
 - [[obs_setup]]
-- [[obs_lofi_music]]
+- [[obs_music]]
 - [[obs_twitch_chat]]
+- [[obs_countdown]]
 
 ## windows — настройка Windows
 
