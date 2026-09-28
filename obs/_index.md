@@ -11,4 +11,5 @@
 
 - [[obs_music]]
 - [[obs_twitch_chat]]
+- [[obs_chat_tts]]
 - [[obs_countdown]]
