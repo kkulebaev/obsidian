@@ -2,7 +2,7 @@
 
 Точка входа в vault. Навигация по разделам.
 
-См. также индексы по разделам: [[develop/_index|develop]] · [[fedora-setup/_index|fedora-setup]] · [[obs/_index|obs]] · [[windows/_index|windows]] · [[Content|verses]] · [[misc/_index|misc]].
+См. также индексы по разделам: [[develop/_index|develop]] · [[fedora-setup/_index|fedora-setup]] · [[obs/_index|obs]] · [[windows/_index|windows]] · [[games/_index|games]] · [[Content|verses]] · [[misc/_index|misc]].
 
 ## develop — разработка и IT
 
@@ -76,6 +76,14 @@
 ## windows — настройка Windows
 
 - [[Сертификат в доверенные]]
+
+## games — игры
+
+### Ведьмак 3
+
+- [[Ведьмак 3 — прокачка мечника]]
+- [[Ведьмак 3 — снаряжение]]
+- [[Ведьмак 3 — Гвинт]]
 
 ## verses — стихи
 
